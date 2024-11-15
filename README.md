@@ -7,8 +7,6 @@
 
 
 
-![github-wrapped](https://github.com/user-attachments/assets/8f3cf2ed-8511-413c-86e0-6a689140774f)
-
 
 
 
