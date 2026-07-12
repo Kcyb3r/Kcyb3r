@@ -16,6 +16,6 @@
 
 ### Summary
 
-![summary stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kcyb3r&theme=radical)
+![summary stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kcyb3r&theme=transparent&bg_color=000000&border_color=ffffff&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
 
-![profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kcyb3r&theme=radical)
+![profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kcyb3r&theme=transparent&bg_color=000000&border_color=ffffff&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
