@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="628" viewBox="0 0 900 628" font-family="'Courier New', Consolas, monospace">
+  <style>
+    .ln  { clip-path: inset(0 100% 0 0); animation: type .45s steps(40) forwards; }
+    .cur { animation: blink 1s steps(2) infinite; }
+    @keyframes type  { to { clip-path: inset(0 0 0 0); } }
+    @keyframes blink { 50% { opacity: 0; } }
+    .t   { animation-delay: 0s;    }
+    .l1  { animation-delay: 1.0s;  } .l2  { animation-delay: 1.4s;  }
+    .l3  { animation-delay: 1.9s;  } .l4  { animation-delay: 2.3s;  }
+    .l5  { animation-delay: 2.8s;  } .l6  { animation-delay: 3.1s;  }
+    .l7  { animation-delay: 3.4s;  } .l8  { animation-delay: 3.7s;  }
+    .l9  { animation-delay: 4.2s;  } .l10 { animation-delay: 4.5s;  }
+    .l11 { animation-delay: 4.8s;  } .l12 { animation-delay: 5.1s;  }
+    .l13 { animation-delay: 5.4s;  }
+  </style>
+
+  <rect width="900" height="628" fill="#000000"/>
+  <rect x="0" y="0" width="900" height="40" fill="#0a0a0a" stroke="#1a1a1a"/>
+  <circle cx="24" cy="20" r="7" fill="#ffffff"/>
+  <circle cx="48" cy="20" r="7" fill="#ffffff"/>
+  <circle cx="72" cy="20" r="7" fill="#ffffff"/>
+  <text x="450" y="25" fill="#ffffff" font-size="14" text-anchor="middle">kcyb3r@github: ~</text>
+
+  <!-- ASCII block title -->
+  <g fill="#ffffff" font-size="14" class="ln t">
+    <text x="60" y="70"> ██   ███    ▒████▒ ███    ███ ██████▒   ░▓████▒   ██████▒</text>
+    <text x="60" y="84"> ██  ▓██    ▓██████ ░██▒  ▒██░ ███████▓  ███████▒  ███████▓</text>
+    <text x="60" y="98"> ██ ▒██▒   ▒██▒  ░█  ███  ███  ██   ▒██  █▒░  ▓██  ██   ▒██</text>
+    <text x="60" y="112"> ██░██▒    ██▓        ██▒▒██   ██    ██        ██  ██    ██</text>
+    <text x="60" y="126"> █████     ██░        ▓████▓   ██   ▒██       ▓██  ██   ▒██</text>
+    <text x="60" y="140"> █████     ██          ████    ███████░    █████   ███████▒</text>
+    <text x="60" y="154"> █████▒    ██          ▒██▒    ███████░    █████░  ██████▓</text>
+    <text x="60" y="168"> ██▒▒██    ██░          ██     ██   ▒██       ▓██  ██  ▓██░</text>
+    <text x="60" y="182"> ██  ██▓   ██▓          ██     ██    ██        ██  ██   ██▓</text>
+    <text x="60" y="196"> ██  ▒██   ▒██▒  ░█     ██     ██   ▒██  █▒   ▓██  ██   ▒██</text>
+    <text x="60" y="210"> ██   ██▓   ▓██████     ██     ████████  ███████▒  ██    ██▒</text>
+    <text x="60" y="224"> ██   ▒██    ▒████▒     ██     ██████▓   ▒█████▒   ██    ███</text>
+  </g>
+
+  <!-- terminal body -->
+  <g fill="#ffffff" font-size="15">
+    <text x="60" y="248" class="ln l1">$ whoami</text>
+    <text x="80" y="270" class="ln l2">Kcyb3r  —  [YOUR ROLE, e.g. Backend Engineer / Security Researcher]</text>
+    <text x="60" y="292" class="ln l3">$ cat about.txt</text>
+    <text x="80" y="314" class="ln l4">[One or two lines about you. What you build and care about.]</text>
+    <text x="60" y="336" class="ln l5">$ cat ./now.md</text>
+    <text x="80" y="358" class="ln l6">[What you're currently working on / learning.]</text>
+    <text x="60" y="380" class="ln l7">$ ls ./stack</text>
+    <text x="80" y="402" class="ln l8">languages : [Python, Go, TypeScript]</text>
+    <text x="80" y="424" class="ln l9">frameworks: [React, Django]</text>
+    <text x="80" y="446" class="ln l10">tooling   : [Docker, Git]</text>
+    <text x="60" y="468" class="ln l11">$ ./connect --help</text>
+    <text x="80" y="490" class="ln l12">github : https://github.com/Kcyb3r</text>
+    <text x="80" y="512" class="ln l13">email  : [you@example.com]</text>
+    <text x="60" y="540" class="ln l13 cur">$ <tspan>&#9608;</tspan></text>
+  </g>
+</svg>
