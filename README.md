@@ -13,9 +13,3 @@
 ### Stats
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=Kcyb3r&theme=transparent&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff)
-
-### Summary
-
-![summary stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kcyb3r&theme=transparent&bg_color=000000&border_color=ffffff&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
-
-![profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kcyb3r&theme=transparent&bg_color=000000&border_color=ffffff&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
