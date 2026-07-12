@@ -21,23 +21,13 @@ $ stats --theme=bw
 
 ```
 ┌─────────────────────────────────────────────┐
-│ ● ● ●  kcyb3r@github: ~                        │
-└─────────────────────────────────────────────┘
-
-$ whoami
-  Keshav Pal  —  Computer Engineering Student · Vibe Coder
-
-$ cat about.txt
-  Computer engineering student & vibe coder — building in Python and C,
-  living in the Linux terminal, and breaking things to learn security.
-
-$ ls ./stack
-  languages : Python, C
-  frameworks: —
-  tooling   : Linux, Git
-
-$ ./connect --help
-  github : https://github.com/Kcyb3r
+KESHAV PAL
+STUDENT
+CODER
+PYTHON  C LANG  JAVA  REACT
+LINUX  GIT
+KCYB3R
+github.com/Kcyb3r
 
 $ _█
 ```
