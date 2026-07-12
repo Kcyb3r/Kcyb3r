@@ -47,8 +47,8 @@
     <text x="80" y="314" class="ln l3">Computer engineering student &amp; vibe coder — building in Python and C, living</text>
     <text x="80" y="336" class="ln l4">in the Linux terminal, and breaking things to learn security.</text>
     <text x="60" y="358" class="ln l5">$ ls ./stack</text>
-    <text x="80" y="380" class="ln l6">languages : Python, C</text>
-    <text x="80" y="402" class="ln l7">frameworks: —</text>
+    <text x="80" y="380" class="ln l6">languages : Python, C, Java</text>
+    <text x="80" y="402" class="ln l7">frameworks: React</text>
     <text x="80" y="424" class="ln l8">tooling   : Linux, Git</text>
     <text x="60" y="446" class="ln l9">$ ./connect --help</text>
     <text x="80" y="468" class="ln l10">github : https://github.com/Kcyb3r</text>
