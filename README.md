@@ -25,22 +25,19 @@ $ stats --theme=bw
 └─────────────────────────────────────────────┘
 
 $ whoami
-  Kcyb3r  —  [YOUR ROLE]
+  Keshav Pal  —  Computer Engineering Student · Vibe Coder
 
 $ cat about.txt
-  [One or two lines about you.]
-
-$ cat ./now.md
-  [What you're currently working on / learning.]
+  Computer engineering student & vibe coder — building in Python and C,
+  living in the Linux terminal, and breaking things to learn security.
 
 $ ls ./stack
-  languages : [Python, Go, TypeScript]
-  frameworks: [React, Django]
-  tooling   : [Docker, Git]
+  languages : Python, C
+  frameworks: —
+  tooling   : Linux, Git
 
 $ ./connect --help
   github : https://github.com/Kcyb3r
-  email  : [you@example.com]
 
 $ _█
 ```
