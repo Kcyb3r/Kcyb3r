@@ -2,19 +2,16 @@
   <style>
     @keyframes type { from { opacity: 0; } to { opacity: 1; } }
     @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
-    .cur { animation: blink 14.06s steps(1, jump-end) forwards; }
-  @keyframes blink {
+    .cur { animation: blink-start 14.06s steps(1, jump-end) forwards, blink 1.1s steps(1) infinite; animation-delay: 0s, 12.46s; }
+  @keyframes blink-start {
     0.00% { opacity: 1.0; }
     3.91% { opacity: 0.0; }
     7.82% { opacity: 1.0; }
     11.74% { opacity: 0.0; }
     14.22% { opacity: 1.0; }
-    88.62% { opacity: 1.0; }
-    88.62% { opacity: 1.0; }
-    92.53% { opacity: 0.0; }
-    96.44% { opacity: 1.0; }
     100.00% { opacity: 1.0; }
   }
+    @keyframes blink { 50% { opacity: 0; } }
     .curg { animation: movecursor 14.06s steps(1, jump-end) forwards; }
   @keyframes movecursor {
     0.00% { transform: translate(40.0px, 100.0px); }
