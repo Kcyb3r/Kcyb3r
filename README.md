@@ -4,7 +4,7 @@
   Edit the [ ] placeholders (project repos) inside terminal.svg.
 -->
 
-![terminal](terminal.svg?v=11)
+![terminal](terminal.svg?v=12)
 
 ### stats
 
@@ -16,7 +16,7 @@
 <details>
 <summary>text version (screen readers / no-images)</summary>
 
-KESHAV PAL — Computer Engineering Student · Vibe Coder
+KESHAV PAL — Vibe Coder
 stack: Python · C · Java · React · Linux · Git
 bio: Computer engineering student & vibe coder — building in Python and C, living in the Linux terminal, and breaking things to learn security.
 connect: github.com/Kcyb3r
