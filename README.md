@@ -4,7 +4,7 @@
   Edit the [ ] placeholders (project repos) inside terminal.svg.
 -->
 
-![terminal](terminal.svg?v=26)
+![terminal](terminal.svg?v=27)
 
 ### activity
 
