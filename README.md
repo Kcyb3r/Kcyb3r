@@ -4,7 +4,7 @@
   Edit the [ ] placeholders (project repos) inside terminal.svg.
 -->
 
-![terminal](terminal.svg?v=6)
+![terminal](terminal.svg?v=7)
 
 ### stats
 ![stats](https://github-readme-stats.vercel.app/api?username=Kcyb3r&show_icons=true&theme=transparent&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000)
