@@ -1,108 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1326" viewBox="0 0 900 1326" font-family="'Courier New', Consolas, monospace">
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="518" viewBox="0 0 820 518" font-family="'Courier New', Consolas, monospace">
   <style>
-    .ln  { clip-path: inset(0 100% 0 0); animation: type .5s steps(50) forwards; }
-    .cur { animation: blink 1s steps(2) infinite; }
-    @keyframes type  { to { clip-path: inset(0 0 0 0); } }
+    .cur { animation: blink 1.1s steps(1) infinite; }
     @keyframes blink { 50% { opacity: 0; } }
-    .t   { animation-delay: 0s;    }
-    .p0  { animation-delay: 0.60s;  }
-    .p1  { animation-delay: 1.00s;  }
-    .p2  { animation-delay: 1.40s;  }
-    .p3  { animation-delay: 1.80s;  }
-    .p4  { animation-delay: 2.20s;  }
-    .p5  { animation-delay: 2.60s;  }
-    .p6  { animation-delay: 3.00s;  }
-    .p7  { animation-delay: 3.40s;  }
-    .p8  { animation-delay: 3.80s;  }
-    .p9  { animation-delay: 4.20s;  }
-    .p10  { animation-delay: 4.60s;  }
   </style>
-
-  <rect width="900" height="1326" fill="#000000"/>
-  <rect x="0" y="0" width="900" height="40" fill="#0a0a0a" stroke="#1a1a1a"/>
+  <rect width="820" height="518" fill="#000000"/>
+  <rect x="0" y="0" width="820" height="40" fill="#0a0a0a" stroke="#1a1a1a"/>
   <circle cx="24" cy="20" r="7" fill="#ffffff"/>
   <circle cx="48" cy="20" r="7" fill="#ffffff"/>
   <circle cx="72" cy="20" r="7" fill="#ffffff"/>
-  <text x="450" y="25" fill="#ffffff" font-size="13" text-anchor="middle">keshav@github: ~</text>
+  <text x="410" y="25" fill="#ffffff" font-size="13" text-anchor="middle">keshav@github: ~</text>
 
-  <g fill="#ffffff" font-size="14" class="ln t">
-    <text x="60" y="70"> ██   ███  ████████   ▒████▒   ██    ██    ▒██▒    ██▒  ▒██            ██████▒</text>
-    <text x="60" y="87"> ██  ▓██   ████████  ▒██████   ██    ██    ▓██▓    ██▓  ▓██            ███████▒</text>
-    <text x="60" y="104"> ██ ▒██▒   ██        ██▒  ▒█   ██    ██    ████    ▒██  ██▒            ██   ▒██</text>
-    <text x="60" y="121"> ██░██▒    ██        ██        ██    ██    ████    ▒██  ██▒            ██    ██</text>
-    <text x="60" y="138"> █████     ██        ███▒      ██    ██   ▒█▓▓█▒    ██ ░██             ██   ▒██</text>
-    <text x="60" y="155"> █████     ███████   ▒█████▒   ████████   ▓█▒▒█▓    ██▒▒██             ███████▒</text>
-    <text x="60" y="172"> █████▒    ███████    ░█████▒  ████████   ██  ██    ██▒▒██             ██████▒</text>
-    <text x="60" y="189"> ██▒▒██    ██            ▒███  ██    ██   ██████    ▒████▒             ██</text>
-    <text x="60" y="206"> ██  ██▓   ██              ██  ██    ██  ░██████░   ░████░             ██</text>
-    <text x="60" y="223"> ██  ▒██   ██        █▒░  ▒██  ██    ██  ▒██  ██▒    ████              ██</text>
-    <text x="60" y="240"> ██   ██▓  ████████  ███████▒  ██    ██  ███  ███    ████              ██</text>
-    <text x="60" y="257"> ██   ▒██  ████████  ░█████▒   ██    ██  ██▒  ▒██    ▓██▓              ██</text>
-    <text x="60" y="274">   ▒██▒    ██</text>
-    <text x="60" y="291">   ▓██▓    ██</text>
-    <text x="60" y="308">   ████    ██</text>
-    <text x="60" y="325">   ████    ██</text>
-    <text x="60" y="342">  ▒█▓▓█▒   ██</text>
-    <text x="60" y="359">  ▓█▒▒█▓   ██</text>
-    <text x="60" y="376">  ██  ██   ██</text>
-    <text x="60" y="393">  ██████   ██</text>
-    <text x="60" y="410"> ░██████░  ██</text>
-    <text x="60" y="427"> ▒██  ██▒  ██</text>
-    <text x="60" y="444"> ███  ███  ████████</text>
-    <text x="60" y="461"> ██▒  ▒██  ████████</text>
-  </g>
+  <text x="40" y="70" fill="#ffffff" font-size="20">KESHAV PAL</text>
+  <text x="40" y="118" fill="#ffffff" font-size="16">$ whoami</text>
+  <text x="60" y="142" fill="#ffffff" font-size="16">Keshav Pal  -  Computer Engineering Student | Vibe Coder</text>
+  <text x="40" y="190" fill="#ffffff" font-size="16">$ cat about.txt</text>
+  <text x="60" y="214" fill="#ffffff" font-size="16">Computer engineering student &amp; vibe coder - building in Python and C,</text>
+  <text x="60" y="238" fill="#ffffff" font-size="16">living in the Linux terminal, and breaking things to learn security.</text>
+  <text x="40" y="286" fill="#ffffff" font-size="16">$ ls ./stack</text>
+  <text x="60" y="310" fill="#ffffff" font-size="16">languages : Python, C, Java</text>
+  <text x="60" y="334" fill="#ffffff" font-size="16">frameworks: React</text>
+  <text x="60" y="358" fill="#ffffff" font-size="16">tooling   : Linux, Git</text>
+  <text x="40" y="406" fill="#ffffff" font-size="16">$ ./connect --help</text>
+  <text x="60" y="430" fill="#ffffff" font-size="16">github : https://github.com/Kcyb3r</text>
 
-  <g fill="#ffffff" font-size="12" class="ln p0">
-    <text x="60" y="502">█     █ █    █  ▓██▓    ██   █▒  ▒█ █████</text>
-    <text x="60" y="517">█░ █ ░█ █    █ ▒█  █▒   ██   ██  ██   █</text>
-    <text x="60" y="532">█░▒█▒░█ █    █ █░  ░█  ▒██▒  ██░░██   █</text>
-    <text x="60" y="547">▓▒███▒█ █    █ █    █  ▓▒▒▓  █▒▓▓▒█   █</text>
-    <text x="60" y="562">▒▒█▒█▒▓ ██████ █    █  █░░█  █ ██ █   █</text>
-    <text x="60" y="577">▒██ ██▓ █    █ █    █  █  █  █ █▓ █   █</text>
-    <text x="60" y="592">▒█▓ ▓█▒ █    █ █░  ░█ ▒████▒ █    █   █</text>
-    <text x="60" y="607">░█▒ ▒█▒ █    █ ▒█  █▒ ▓▒  ▒▓ █    █   █</text>
-    <text x="60" y="622"> █   █▒ █    █  ▓██▓  █░  ░█ █    █ █████</text>
-  </g>
-  <text x="80" y="651" fill="#ffffff" font-size="15" class="ln p1">Keshav Pal  —  Computer Engineering Student · Vibe Coder</text>
-  <g fill="#ffffff" font-size="12" class="ln p2">
-    <text x="60" y="679">   ██   █████░  ▓██▓  █    ████████</text>
-    <text x="60" y="694">   ██   █   ▒█ ▒█  █▒ █    █   █</text>
-    <text x="60" y="709">  ▒██▒  █    █ █░  ░█ █    █   █</text>
-    <text x="60" y="724">  ▓▒▒▓  █   ▒█ █    █ █    █   █</text>
-    <text x="60" y="739">  █░░█  █████░ █    █ █    █   █</text>
-    <text x="60" y="754">  █  █  █   ▒█ █    █ █    █   █</text>
-    <text x="60" y="769"> ▒████▒ █    █ █░  ░█ █    █   █</text>
-    <text x="60" y="784"> ▓▒  ▒▓ █   ▒█ ▒█  █▒ █▒  ▒█   █</text>
-    <text x="60" y="799"> █░  ░█ █████░  ▓██▓   ████    █</text>
-  </g>
-  <text x="80" y="828" fill="#ffffff" font-size="15" class="ln p3">Computer engineering student &amp; vibe coder - building in Python and C,</text>
-  <text x="80" y="850" fill="#ffffff" font-size="15" class="ln p4">living in the Linux terminal, and breaking things to learn security.</text>
-  <g fill="#ffffff" font-size="12" class="ln p5">
-    <text x="60" y="878">  ▓███▒███████   ██    ░███▒ █   ▒▓</text>
-    <text x="60" y="893"> █▓  ░█   █      ██   ░█▒ ░█ █  ▒█</text>
-    <text x="60" y="908"> █        █     ▒██▒  █▒     █ ▒█</text>
-    <text x="60" y="923"> █▓░      █     ▓▒▒▓  █      █▒█</text>
-    <text x="60" y="938">  ▓██▓    █     █░░█  █      ███░</text>
-    <text x="60" y="953">     ▓█   █     █  █  █      █ ▒█</text>
-    <text x="60" y="968">      █   █    ▒████▒ █▒     █  █▓</text>
-    <text x="60" y="983"> █░  ▓█   █    ▓▒  ▒▓ ░█▒ ░▓ █   █░</text>
-    <text x="60" y="998"> ▒████░   █    █░  ░█  ▒███▒ █   ▒█</text>
-  </g>
-  <text x="80" y="1027" fill="#ffffff" font-size="15" class="ln p6">languages : Python, C, Java</text>
-  <text x="80" y="1049" fill="#ffffff" font-size="15" class="ln p7">frameworks: React</text>
-  <text x="80" y="1071" fill="#ffffff" font-size="15" class="ln p8">tooling   : Linux, Git</text>
-  <g fill="#ffffff" font-size="12" class="ln p9">
-    <text x="60" y="1099">  ░███▒  ▓██▓  ██   █ ██   █ ██████  ░███▒███████</text>
-    <text x="60" y="1114"> ░█▒ ░█ ▒█  █▒ ██░  █ ██░  █ █      ░█▒ ░█   █</text>
-    <text x="60" y="1129"> █▒     █░  ░█ █▒▓  █ █▒▓  █ █      █▒       █</text>
-    <text x="60" y="1144"> █      █    █ █ █  █ █ █  █ █      █        █</text>
-    <text x="60" y="1159"> █      █    █ █ ▓▓ █ █ ▓▓ █ ██████ █        █</text>
-    <text x="60" y="1174"> █      █    █ █  █ █ █  █ █ █      █        █</text>
-    <text x="60" y="1189"> █▒     █░  ░█ █  ▓▒█ █  ▓▒█ █      █▒       █</text>
-    <text x="60" y="1204"> ░█▒ ░▓ ▒█  █▒ █  ░██ █  ░██ █      ░█▒ ░▓   █</text>
-    <text x="60" y="1219">  ▒███▒  ▓██▓  █   ██ █   ██ ██████  ▒███▒   █</text>
-  </g>
-  <text x="80" y="1248" fill="#ffffff" font-size="15" class="ln p10">github : https://github.com/Kcyb3r</text>
-
-  <text x="60" y="1276" font-size="15" class="cur">$ <tspan>&#9608;</tspan></text>
+  <text x="40" y="458" fill="#ffffff" font-size="16" class="cur">$ &#9608;</text>
 </svg>
