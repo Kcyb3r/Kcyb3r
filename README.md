@@ -7,7 +7,7 @@
   with a live typewriter reveal + blinking cursor. Works in BOTH GitHub themes.
 -->
 
-![terminal](terminal.svg)
+![terminal](terminal.svg?v=2)
 
 ```console
 $ stats --theme=bw
@@ -22,19 +22,11 @@ $ stats --theme=bw
 ```
 ┌─────────────────────────────────────────────┐
 KESHAV PAL
-$ whoami
-  Keshav Pal — Computer Engineering Student · Vibe Coder
-$ cat about.txt
-  Computer engineering student & vibe coder — building in Python and C,
-  living in the Linux terminal, and breaking things to learn security.
-$ ls ./stack
-  languages : Python, C, Java
-  frameworks: React
-  tooling   : Linux, Git
-$ ./connect --help
-  github : https://github.com/Kcyb3r
-
-$ _█
+Keshav Pal — Computer Engineering Student · Vibe Coder
+Computer engineering student & vibe coder — building in Python and C,
+living in the Linux terminal, and breaking things to learn security.
+Python - C - Java | React | Linux - Git
+github: https://github.com/Kcyb3r
 ```
 </details>
 
