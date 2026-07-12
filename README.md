@@ -4,7 +4,7 @@
   Edit the [ ] placeholders (project repos) inside terminal.svg.
 -->
 
-![terminal](terminal.svg?v=10)
+![terminal](terminal.svg?v=11)
 
 ### stats
 
@@ -16,14 +16,9 @@
 <details>
 <summary>text version (screen readers / no-images)</summary>
 
-KESHAV PAL
-Keshav Pal — Computer Engineering Student · Vibe Coder
-Computer engineering student & vibe coder — building in Python and C,
-living in the Linux terminal, and breaking things to learn security.
-
-now: [ your current focus / learning ]
-featured: [ project-name ] [ react-java-app ]
+KESHAV PAL — Computer Engineering Student · Vibe Coder
 stack: Python · C · Java · React · Linux · Git
+bio: Computer engineering student & vibe coder — building in Python and C, living in the Linux terminal, and breaking things to learn security.
 connect: github.com/Kcyb3r
 </details>
 
