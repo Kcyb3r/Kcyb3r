@@ -4,7 +4,11 @@
   Edit the [ ] placeholders (project repos) inside terminal.svg.
 -->
 
-![terminal](terminal.svg?v=20)
+![terminal](terminal.svg?v=21)
+
+### activity
+
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kcyb3r&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true)
 
 ### stats
 
