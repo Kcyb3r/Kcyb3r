@@ -6,10 +6,10 @@
 
 ![terminal](terminal.svg?v=33)
 
-### activity
+### Activity
 
 ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kcyb3r&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true)
 
-### stats
+### Stats
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=Kcyb3r&theme=transparent&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff)
