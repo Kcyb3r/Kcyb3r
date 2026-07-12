@@ -302,7 +302,7 @@
     99.13% { transform: translate(126.4px, 801.0px); }
     99.42% { transform: translate(789.6px, 801.0px); }
     99.71% { transform: translate(799.2px, 801.0px); }
-    100% { transform: translate(799.2px, 801.0px); }
+    100.00% { transform: translate(40.0px, 880.0px); }
   }
   </style>
   <rect width="820" height="906" fill="#000000"/>
