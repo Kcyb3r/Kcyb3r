@@ -32,6 +32,8 @@
     7.10% { transform: translate(174.4px, 100.0px); }
     7.41% { transform: translate(191.2px, 100.0px); }
     7.72% { transform: translate(208.0px, 100.0px); }
+    8.02% { transform: translate(241.6px, 100.0px); }
+    8.41% { transform: translate(40.0px, 140.0px); }
     17.28% { transform: translate(50.8px, 140.0px); }
     17.59% { transform: translate(61.6px, 140.0px); }
     17.90% { transform: translate(72.4px, 140.0px); }
