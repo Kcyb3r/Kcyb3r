@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="2000" viewBox="0 0 820 815" preserveAspectRatio="xMidYMid meet" font-family="'Courier New', Consolas, monospace">
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" viewBox="0 0 820 906" preserveAspectRatio="xMidYMid meet" font-family="'Courier New', Consolas, monospace">
   <style>
     .cur { animation: blink 1.1s steps(1) infinite; }
     @keyframes blink { 50% { opacity: 0; } }
   </style>
-  <rect width="820" height="815" fill="#000000"/>
+  <rect width="820" height="906" fill="#000000"/>
   <rect x="0" y="0" width="820" height="44" fill="#0a0a0a" stroke="#1a1a1a"/>
   <circle cx="26" cy="22" r="7" fill="#ffffff"/>
   <circle cx="52" cy="22" r="7" fill="#ffffff"/>
@@ -17,26 +17,44 @@
   <text x="40" y="295" fill="#ffffff" font-size="18">living in the Linux terminal, and breaking things to learn security.</text>
   <line x1="40" y1="335" x2="780" y2="335" stroke="#333333" stroke-width="2"/>
   <text x="40" y="385" fill="#ffffff" font-size="20">stats</text>
-  <text x="40" y="420" fill="#ffffff" font-size="18">repos: 14   followers: 1   following: 6</text>
-  <text x="40" y="450" fill="#ffffff" font-size="18">stars: 2   forks: 0   joined: 2024</text>
-  <line x1="40" y1="490" x2="780" y2="490" stroke="#333333" stroke-width="2"/>
-  <text x="40" y="540" fill="#ffffff" font-size="20">languages</text>
-  <text x="40" y="580" fill="#ffffff" font-size="16">Python</text>
-  <rect x="200" y="567" width="480" height="16" fill="#1a1a1a"/>
-  <rect x="200" y="567" width="278" height="16" fill="#ffffff"/>
-  <text x="780" y="580" fill="#ffffff" font-size="16" text-anchor="end">58%</text>
-  <text x="40" y="622" fill="#ffffff" font-size="16">Java</text>
-  <rect x="200" y="609" width="480" height="16" fill="#1a1a1a"/>
-  <rect x="200" y="609" width="158" height="16" fill="#ffffff"/>
-  <text x="780" y="622" fill="#ffffff" font-size="16" text-anchor="end">33%</text>
-  <text x="40" y="664" fill="#ffffff" font-size="16">Shell</text>
-  <rect x="200" y="651" width="480" height="16" fill="#1a1a1a"/>
-  <rect x="200" y="651" width="24" height="16" fill="#ffffff"/>
-  <text x="780" y="664" fill="#ffffff" font-size="16" text-anchor="end">5%</text>
-  <text x="40" y="706" fill="#ffffff" font-size="16">Batchfile</text>
-  <rect x="200" y="693" width="480" height="16" fill="#1a1a1a"/>
-  <rect x="200" y="693" width="9" height="16" fill="#ffffff"/>
-  <text x="780" y="706" fill="#ffffff" font-size="16" text-anchor="end">2%</text>
-  <line x1="40" y1="740" x2="780" y2="740" stroke="#333333" stroke-width="2"/>
-  <text x="40" y="807" fill="#ffffff" font-size="18" class="cur">&#9608;</text>
+  <text x="40" y="420" fill="#ffffff" font-size="16">repos</text>
+  <rect x="200" y="407" width="480" height="16" fill="#1a1a1a"/>
+  <rect x="200" y="407" width="480" height="16" fill="#ffffff"/>
+  <text x="780" y="420" fill="#ffffff" font-size="16" text-anchor="end">14</text>
+  <text x="40" y="458" fill="#ffffff" font-size="16">following</text>
+  <rect x="200" y="445" width="480" height="16" fill="#1a1a1a"/>
+  <rect x="200" y="445" width="205" height="16" fill="#ffffff"/>
+  <text x="780" y="458" fill="#ffffff" font-size="16" text-anchor="end">6</text>
+  <text x="40" y="496" fill="#ffffff" font-size="16">stars</text>
+  <rect x="200" y="483" width="480" height="16" fill="#1a1a1a"/>
+  <rect x="200" y="483" width="68" height="16" fill="#ffffff"/>
+  <text x="780" y="496" fill="#ffffff" font-size="16" text-anchor="end">2</text>
+  <text x="40" y="534" fill="#ffffff" font-size="16">followers</text>
+  <rect x="200" y="521" width="480" height="16" fill="#1a1a1a"/>
+  <rect x="200" y="521" width="34" height="16" fill="#ffffff"/>
+  <text x="780" y="534" fill="#ffffff" font-size="16" text-anchor="end">1</text>
+  <text x="40" y="572" fill="#ffffff" font-size="16">forks</text>
+  <rect x="200" y="559" width="480" height="16" fill="#1a1a1a"/>
+  <rect x="200" y="559" width="0" height="16" fill="#ffffff"/>
+  <text x="780" y="572" fill="#ffffff" font-size="16" text-anchor="end">0</text>
+  <line x1="40" y1="602" x2="780" y2="602" stroke="#333333" stroke-width="2"/>
+  <text x="40" y="652" fill="#ffffff" font-size="20">languages</text>
+  <text x="40" y="687" fill="#ffffff" font-size="16">Python</text>
+  <rect x="200" y="674" width="480" height="16" fill="#1a1a1a"/>
+  <rect x="200" y="674" width="278" height="16" fill="#ffffff"/>
+  <text x="780" y="687" fill="#ffffff" font-size="16" text-anchor="end">58%</text>
+  <text x="40" y="725" fill="#ffffff" font-size="16">Java</text>
+  <rect x="200" y="712" width="480" height="16" fill="#1a1a1a"/>
+  <rect x="200" y="712" width="158" height="16" fill="#ffffff"/>
+  <text x="780" y="725" fill="#ffffff" font-size="16" text-anchor="end">33%</text>
+  <text x="40" y="763" fill="#ffffff" font-size="16">Shell</text>
+  <rect x="200" y="750" width="480" height="16" fill="#1a1a1a"/>
+  <rect x="200" y="750" width="24" height="16" fill="#ffffff"/>
+  <text x="780" y="763" fill="#ffffff" font-size="16" text-anchor="end">5%</text>
+  <text x="40" y="801" fill="#ffffff" font-size="16">Batchfile</text>
+  <rect x="200" y="788" width="480" height="16" fill="#1a1a1a"/>
+  <rect x="200" y="788" width="9" height="16" fill="#ffffff"/>
+  <text x="780" y="801" fill="#ffffff" font-size="16" text-anchor="end">2%</text>
+  <line x1="40" y1="831" x2="780" y2="831" stroke="#333333" stroke-width="2"/>
+  <text x="40" y="898" fill="#ffffff" font-size="18" class="cur">&#9608;</text>
 </svg>
