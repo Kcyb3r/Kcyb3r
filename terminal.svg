@@ -4,304 +4,304 @@
     @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
     .cur { animation: blink 1.1s steps(1) infinite; }
     @keyframes blink { 50% { opacity: 0; } }
-    .curg { animation: movecursor 12.96s steps(1, jump-end) forwards; }
+    .curg { animation: movecursor 13.86s steps(1, jump-end) forwards; }
   @keyframes movecursor {
     0.00% { transform: translate(351.2px, 28.0px); }
-    0.31% { transform: translate(359.6px, 28.0px); }
-    0.62% { transform: translate(368.0px, 28.0px); }
-    0.93% { transform: translate(376.4px, 28.0px); }
-    1.23% { transform: translate(384.8px, 28.0px); }
-    1.54% { transform: translate(393.2px, 28.0px); }
-    1.85% { transform: translate(401.6px, 28.0px); }
-    2.16% { transform: translate(410.0px, 28.0px); }
-    2.47% { transform: translate(418.4px, 28.0px); }
-    2.78% { transform: translate(426.8px, 28.0px); }
-    3.09% { transform: translate(435.2px, 28.0px); }
-    3.40% { transform: translate(443.6px, 28.0px); }
-    3.70% { transform: translate(452.0px, 28.0px); }
-    4.01% { transform: translate(460.4px, 28.0px); }
-    4.32% { transform: translate(468.8px, 28.0px); }
-    4.63% { transform: translate(477.2px, 28.0px); }
-    4.94% { transform: translate(56.8px, 100.0px); }
-    5.25% { transform: translate(73.6px, 100.0px); }
-    5.56% { transform: translate(90.4px, 100.0px); }
-    5.86% { transform: translate(107.2px, 100.0px); }
-    6.17% { transform: translate(124.0px, 100.0px); }
-    6.48% { transform: translate(140.8px, 100.0px); }
-    6.79% { transform: translate(157.6px, 100.0px); }
-    7.10% { transform: translate(174.4px, 100.0px); }
-    7.41% { transform: translate(191.2px, 100.0px); }
-    7.72% { transform: translate(208.0px, 100.0px); }
-    8.02% { transform: translate(241.6px, 100.0px); }
-    8.41% { transform: translate(40.0px, 140.0px); }
-    17.28% { transform: translate(50.8px, 140.0px); }
-    17.59% { transform: translate(61.6px, 140.0px); }
-    17.90% { transform: translate(72.4px, 140.0px); }
-    18.21% { transform: translate(83.2px, 140.0px); }
-    18.52% { transform: translate(94.0px, 140.0px); }
-    18.83% { transform: translate(104.8px, 140.0px); }
-    19.14% { transform: translate(115.6px, 140.0px); }
-    19.44% { transform: translate(126.4px, 140.0px); }
-    19.75% { transform: translate(137.2px, 140.0px); }
-    20.06% { transform: translate(148.0px, 140.0px); }
-    20.37% { transform: translate(158.8px, 140.0px); }
-    20.68% { transform: translate(169.6px, 140.0px); }
-    20.99% { transform: translate(180.4px, 140.0px); }
-    21.30% { transform: translate(191.2px, 140.0px); }
-    21.60% { transform: translate(202.0px, 140.0px); }
-    21.91% { transform: translate(212.8px, 140.0px); }
-    22.22% { transform: translate(223.6px, 140.0px); }
-    22.53% { transform: translate(234.4px, 140.0px); }
-    22.84% { transform: translate(245.2px, 140.0px); }
-    23.15% { transform: translate(256.0px, 140.0px); }
-    23.46% { transform: translate(266.8px, 140.0px); }
-    23.77% { transform: translate(277.6px, 140.0px); }
-    24.07% { transform: translate(288.4px, 140.0px); }
-    24.38% { transform: translate(299.2px, 140.0px); }
-    24.69% { transform: translate(310.0px, 140.0px); }
-    25.00% { transform: translate(320.8px, 140.0px); }
-    25.31% { transform: translate(331.6px, 140.0px); }
-    25.62% { transform: translate(342.4px, 140.0px); }
-    25.93% { transform: translate(353.2px, 140.0px); }
-    26.23% { transform: translate(364.0px, 140.0px); }
-    26.54% { transform: translate(374.8px, 140.0px); }
-    26.85% { transform: translate(385.6px, 140.0px); }
-    27.16% { transform: translate(396.4px, 140.0px); }
-    27.47% { transform: translate(407.2px, 140.0px); }
-    27.78% { transform: translate(418.0px, 140.0px); }
-    28.09% { transform: translate(428.8px, 140.0px); }
-    28.40% { transform: translate(439.6px, 140.0px); }
-    28.70% { transform: translate(450.4px, 140.0px); }
-    29.01% { transform: translate(461.2px, 140.0px); }
-    29.32% { transform: translate(472.0px, 140.0px); }
-    29.63% { transform: translate(482.8px, 140.0px); }
-    29.94% { transform: translate(52.0px, 230.0px); }
-    30.25% { transform: translate(64.0px, 230.0px); }
-    30.56% { transform: translate(76.0px, 230.0px); }
-    30.86% { transform: translate(50.8px, 265.0px); }
-    31.17% { transform: translate(61.6px, 265.0px); }
-    31.48% { transform: translate(72.4px, 265.0px); }
-    31.79% { transform: translate(83.2px, 265.0px); }
-    32.10% { transform: translate(94.0px, 265.0px); }
-    32.41% { transform: translate(104.8px, 265.0px); }
-    32.72% { transform: translate(115.6px, 265.0px); }
-    33.02% { transform: translate(126.4px, 265.0px); }
-    33.33% { transform: translate(137.2px, 265.0px); }
-    33.64% { transform: translate(148.0px, 265.0px); }
-    33.95% { transform: translate(158.8px, 265.0px); }
-    34.26% { transform: translate(169.6px, 265.0px); }
-    34.57% { transform: translate(180.4px, 265.0px); }
-    34.88% { transform: translate(191.2px, 265.0px); }
-    35.19% { transform: translate(202.0px, 265.0px); }
-    35.49% { transform: translate(212.8px, 265.0px); }
-    35.80% { transform: translate(223.6px, 265.0px); }
-    36.11% { transform: translate(234.4px, 265.0px); }
-    36.42% { transform: translate(245.2px, 265.0px); }
-    36.73% { transform: translate(256.0px, 265.0px); }
-    37.04% { transform: translate(266.8px, 265.0px); }
-    37.35% { transform: translate(277.6px, 265.0px); }
-    37.65% { transform: translate(288.4px, 265.0px); }
-    37.96% { transform: translate(299.2px, 265.0px); }
-    38.27% { transform: translate(310.0px, 265.0px); }
-    38.58% { transform: translate(320.8px, 265.0px); }
-    38.89% { transform: translate(331.6px, 265.0px); }
-    39.20% { transform: translate(342.4px, 265.0px); }
-    39.51% { transform: translate(353.2px, 265.0px); }
-    39.81% { transform: translate(364.0px, 265.0px); }
-    40.12% { transform: translate(374.8px, 265.0px); }
-    40.43% { transform: translate(385.6px, 265.0px); }
-    40.74% { transform: translate(396.4px, 265.0px); }
-    41.05% { transform: translate(407.2px, 265.0px); }
-    41.36% { transform: translate(418.0px, 265.0px); }
-    41.67% { transform: translate(428.8px, 265.0px); }
-    41.98% { transform: translate(439.6px, 265.0px); }
-    42.28% { transform: translate(450.4px, 265.0px); }
-    42.59% { transform: translate(461.2px, 265.0px); }
-    42.90% { transform: translate(472.0px, 265.0px); }
-    43.21% { transform: translate(482.8px, 265.0px); }
-    43.52% { transform: translate(493.6px, 265.0px); }
-    43.83% { transform: translate(504.4px, 265.0px); }
-    44.14% { transform: translate(515.2px, 265.0px); }
-    44.44% { transform: translate(526.0px, 265.0px); }
-    44.75% { transform: translate(536.8px, 265.0px); }
-    45.06% { transform: translate(547.6px, 265.0px); }
-    45.37% { transform: translate(558.4px, 265.0px); }
-    45.68% { transform: translate(569.2px, 265.0px); }
-    45.99% { transform: translate(580.0px, 265.0px); }
-    46.30% { transform: translate(590.8px, 265.0px); }
-    46.60% { transform: translate(601.6px, 265.0px); }
-    46.91% { transform: translate(612.4px, 265.0px); }
-    47.22% { transform: translate(623.2px, 265.0px); }
-    47.53% { transform: translate(634.0px, 265.0px); }
-    47.84% { transform: translate(644.8px, 265.0px); }
-    48.15% { transform: translate(655.6px, 265.0px); }
-    48.46% { transform: translate(666.4px, 265.0px); }
-    48.77% { transform: translate(677.2px, 265.0px); }
-    49.07% { transform: translate(688.0px, 265.0px); }
-    49.38% { transform: translate(698.8px, 265.0px); }
-    49.69% { transform: translate(709.6px, 265.0px); }
-    50.00% { transform: translate(720.4px, 265.0px); }
-    50.31% { transform: translate(731.2px, 265.0px); }
-    50.62% { transform: translate(742.0px, 265.0px); }
-    50.93% { transform: translate(752.8px, 265.0px); }
-    51.23% { transform: translate(763.6px, 265.0px); }
-    51.54% { transform: translate(774.4px, 265.0px); }
-    51.85% { transform: translate(785.2px, 265.0px); }
-    52.16% { transform: translate(50.8px, 295.0px); }
-    52.47% { transform: translate(61.6px, 295.0px); }
-    52.78% { transform: translate(72.4px, 295.0px); }
-    53.09% { transform: translate(83.2px, 295.0px); }
-    53.40% { transform: translate(94.0px, 295.0px); }
-    53.70% { transform: translate(104.8px, 295.0px); }
-    54.01% { transform: translate(115.6px, 295.0px); }
-    54.32% { transform: translate(126.4px, 295.0px); }
-    54.63% { transform: translate(137.2px, 295.0px); }
-    54.94% { transform: translate(148.0px, 295.0px); }
-    55.25% { transform: translate(158.8px, 295.0px); }
-    55.56% { transform: translate(169.6px, 295.0px); }
-    55.86% { transform: translate(180.4px, 295.0px); }
-    56.17% { transform: translate(191.2px, 295.0px); }
-    56.48% { transform: translate(202.0px, 295.0px); }
-    56.79% { transform: translate(212.8px, 295.0px); }
-    57.10% { transform: translate(223.6px, 295.0px); }
-    57.41% { transform: translate(234.4px, 295.0px); }
-    57.72% { transform: translate(245.2px, 295.0px); }
-    58.02% { transform: translate(256.0px, 295.0px); }
-    58.33% { transform: translate(266.8px, 295.0px); }
-    58.64% { transform: translate(277.6px, 295.0px); }
-    58.95% { transform: translate(288.4px, 295.0px); }
-    59.26% { transform: translate(299.2px, 295.0px); }
-    59.57% { transform: translate(310.0px, 295.0px); }
-    59.88% { transform: translate(320.8px, 295.0px); }
-    60.19% { transform: translate(331.6px, 295.0px); }
-    60.49% { transform: translate(342.4px, 295.0px); }
-    60.80% { transform: translate(353.2px, 295.0px); }
-    61.11% { transform: translate(364.0px, 295.0px); }
-    61.42% { transform: translate(374.8px, 295.0px); }
-    61.73% { transform: translate(385.6px, 295.0px); }
-    62.04% { transform: translate(396.4px, 295.0px); }
-    62.35% { transform: translate(407.2px, 295.0px); }
-    62.65% { transform: translate(418.0px, 295.0px); }
-    62.96% { transform: translate(428.8px, 295.0px); }
-    63.27% { transform: translate(439.6px, 295.0px); }
-    63.58% { transform: translate(450.4px, 295.0px); }
-    63.89% { transform: translate(461.2px, 295.0px); }
-    64.20% { transform: translate(472.0px, 295.0px); }
-    64.51% { transform: translate(482.8px, 295.0px); }
-    64.81% { transform: translate(493.6px, 295.0px); }
-    65.12% { transform: translate(504.4px, 295.0px); }
-    65.43% { transform: translate(515.2px, 295.0px); }
-    65.74% { transform: translate(526.0px, 295.0px); }
-    66.05% { transform: translate(536.8px, 295.0px); }
-    66.36% { transform: translate(547.6px, 295.0px); }
-    66.67% { transform: translate(558.4px, 295.0px); }
-    66.98% { transform: translate(569.2px, 295.0px); }
-    67.28% { transform: translate(580.0px, 295.0px); }
-    67.59% { transform: translate(590.8px, 295.0px); }
-    67.90% { transform: translate(601.6px, 295.0px); }
-    68.21% { transform: translate(612.4px, 295.0px); }
-    68.52% { transform: translate(623.2px, 295.0px); }
-    68.83% { transform: translate(634.0px, 295.0px); }
-    69.14% { transform: translate(644.8px, 295.0px); }
-    69.44% { transform: translate(655.6px, 295.0px); }
-    69.75% { transform: translate(666.4px, 295.0px); }
-    70.06% { transform: translate(677.2px, 295.0px); }
-    70.37% { transform: translate(688.0px, 295.0px); }
-    70.68% { transform: translate(698.8px, 295.0px); }
-    70.99% { transform: translate(709.6px, 295.0px); }
-    71.30% { transform: translate(720.4px, 295.0px); }
-    71.60% { transform: translate(731.2px, 295.0px); }
-    71.91% { transform: translate(742.0px, 295.0px); }
-    72.22% { transform: translate(752.8px, 295.0px); }
-    72.53% { transform: translate(763.6px, 295.0px); }
-    72.84% { transform: translate(774.4px, 295.0px); }
-    73.15% { transform: translate(52.0px, 385.0px); }
-    73.46% { transform: translate(64.0px, 385.0px); }
-    73.77% { transform: translate(76.0px, 385.0px); }
-    74.07% { transform: translate(88.0px, 385.0px); }
-    74.38% { transform: translate(100.0px, 385.0px); }
-    74.69% { transform: translate(49.6px, 420.0px); }
-    75.00% { transform: translate(59.2px, 420.0px); }
-    75.31% { transform: translate(68.8px, 420.0px); }
-    75.62% { transform: translate(78.4px, 420.0px); }
-    75.93% { transform: translate(88.0px, 420.0px); }
-    76.23% { transform: translate(789.6px, 420.0px); }
-    76.54% { transform: translate(799.2px, 420.0px); }
-    76.85% { transform: translate(49.6px, 458.0px); }
-    77.16% { transform: translate(59.2px, 458.0px); }
-    77.47% { transform: translate(68.8px, 458.0px); }
-    77.78% { transform: translate(78.4px, 458.0px); }
-    78.09% { transform: translate(88.0px, 458.0px); }
-    78.40% { transform: translate(97.6px, 458.0px); }
-    78.70% { transform: translate(107.2px, 458.0px); }
-    79.01% { transform: translate(116.8px, 458.0px); }
-    79.32% { transform: translate(126.4px, 458.0px); }
-    79.63% { transform: translate(789.6px, 458.0px); }
-    79.94% { transform: translate(49.6px, 496.0px); }
-    80.25% { transform: translate(59.2px, 496.0px); }
-    80.56% { transform: translate(68.8px, 496.0px); }
-    80.86% { transform: translate(78.4px, 496.0px); }
-    81.17% { transform: translate(88.0px, 496.0px); }
-    81.48% { transform: translate(789.6px, 496.0px); }
-    81.79% { transform: translate(49.6px, 534.0px); }
-    82.10% { transform: translate(59.2px, 534.0px); }
-    82.41% { transform: translate(68.8px, 534.0px); }
-    82.72% { transform: translate(78.4px, 534.0px); }
-    83.02% { transform: translate(88.0px, 534.0px); }
-    83.33% { transform: translate(97.6px, 534.0px); }
-    83.64% { transform: translate(107.2px, 534.0px); }
-    83.95% { transform: translate(116.8px, 534.0px); }
-    84.26% { transform: translate(126.4px, 534.0px); }
-    84.57% { transform: translate(789.6px, 534.0px); }
-    84.88% { transform: translate(49.6px, 572.0px); }
-    85.19% { transform: translate(59.2px, 572.0px); }
-    85.49% { transform: translate(68.8px, 572.0px); }
-    85.80% { transform: translate(78.4px, 572.0px); }
-    86.11% { transform: translate(88.0px, 572.0px); }
-    86.42% { transform: translate(789.6px, 572.0px); }
-    86.73% { transform: translate(52.0px, 652.0px); }
-    87.04% { transform: translate(64.0px, 652.0px); }
-    87.35% { transform: translate(76.0px, 652.0px); }
-    87.65% { transform: translate(88.0px, 652.0px); }
-    87.96% { transform: translate(100.0px, 652.0px); }
-    88.27% { transform: translate(112.0px, 652.0px); }
-    88.58% { transform: translate(124.0px, 652.0px); }
-    88.89% { transform: translate(136.0px, 652.0px); }
-    89.20% { transform: translate(148.0px, 652.0px); }
-    89.51% { transform: translate(49.6px, 687.0px); }
-    89.81% { transform: translate(59.2px, 687.0px); }
-    90.12% { transform: translate(68.8px, 687.0px); }
-    90.43% { transform: translate(78.4px, 687.0px); }
-    90.74% { transform: translate(88.0px, 687.0px); }
-    91.05% { transform: translate(97.6px, 687.0px); }
-    91.36% { transform: translate(789.6px, 687.0px); }
-    91.67% { transform: translate(799.2px, 687.0px); }
-    91.98% { transform: translate(808.8px, 687.0px); }
-    92.28% { transform: translate(49.6px, 725.0px); }
-    92.59% { transform: translate(59.2px, 725.0px); }
-    92.90% { transform: translate(68.8px, 725.0px); }
-    93.21% { transform: translate(78.4px, 725.0px); }
-    93.52% { transform: translate(789.6px, 725.0px); }
-    93.83% { transform: translate(799.2px, 725.0px); }
-    94.14% { transform: translate(808.8px, 725.0px); }
-    94.44% { transform: translate(49.6px, 763.0px); }
-    94.75% { transform: translate(59.2px, 763.0px); }
-    95.06% { transform: translate(68.8px, 763.0px); }
-    95.37% { transform: translate(78.4px, 763.0px); }
-    95.68% { transform: translate(88.0px, 763.0px); }
-    95.99% { transform: translate(789.6px, 763.0px); }
-    96.30% { transform: translate(799.2px, 763.0px); }
-    96.60% { transform: translate(49.6px, 801.0px); }
-    96.91% { transform: translate(59.2px, 801.0px); }
-    97.22% { transform: translate(68.8px, 801.0px); }
-    97.53% { transform: translate(78.4px, 801.0px); }
-    97.84% { transform: translate(88.0px, 801.0px); }
-    98.15% { transform: translate(97.6px, 801.0px); }
-    98.46% { transform: translate(107.2px, 801.0px); }
-    98.77% { transform: translate(116.8px, 801.0px); }
-    99.07% { transform: translate(126.4px, 801.0px); }
-    99.38% { transform: translate(789.6px, 801.0px); }
-    99.69% { transform: translate(799.2px, 801.0px); }
+    0.29% { transform: translate(359.6px, 28.0px); }
+    0.58% { transform: translate(368.0px, 28.0px); }
+    0.87% { transform: translate(376.4px, 28.0px); }
+    1.15% { transform: translate(384.8px, 28.0px); }
+    1.44% { transform: translate(393.2px, 28.0px); }
+    1.73% { transform: translate(401.6px, 28.0px); }
+    2.02% { transform: translate(410.0px, 28.0px); }
+    2.31% { transform: translate(418.4px, 28.0px); }
+    2.60% { transform: translate(426.8px, 28.0px); }
+    2.89% { transform: translate(435.2px, 28.0px); }
+    3.17% { transform: translate(443.6px, 28.0px); }
+    3.46% { transform: translate(452.0px, 28.0px); }
+    3.75% { transform: translate(460.4px, 28.0px); }
+    4.04% { transform: translate(468.8px, 28.0px); }
+    4.33% { transform: translate(477.2px, 28.0px); }
+    4.62% { transform: translate(56.8px, 100.0px); }
+    4.91% { transform: translate(73.6px, 100.0px); }
+    5.19% { transform: translate(90.4px, 100.0px); }
+    5.48% { transform: translate(107.2px, 100.0px); }
+    5.77% { transform: translate(124.0px, 100.0px); }
+    6.06% { transform: translate(140.8px, 100.0px); }
+    6.35% { transform: translate(157.6px, 100.0px); }
+    6.64% { transform: translate(174.4px, 100.0px); }
+    6.93% { transform: translate(191.2px, 100.0px); }
+    7.22% { transform: translate(208.0px, 100.0px); }
+    7.50% { transform: translate(241.6px, 100.0px); }
+    7.86% { transform: translate(40.0px, 140.0px); }
+    22.66% { transform: translate(50.8px, 140.0px); }
+    22.94% { transform: translate(61.6px, 140.0px); }
+    23.23% { transform: translate(72.4px, 140.0px); }
+    23.52% { transform: translate(83.2px, 140.0px); }
+    23.81% { transform: translate(94.0px, 140.0px); }
+    24.10% { transform: translate(104.8px, 140.0px); }
+    24.39% { transform: translate(115.6px, 140.0px); }
+    24.68% { transform: translate(126.4px, 140.0px); }
+    24.96% { transform: translate(137.2px, 140.0px); }
+    25.25% { transform: translate(148.0px, 140.0px); }
+    25.54% { transform: translate(158.8px, 140.0px); }
+    25.83% { transform: translate(169.6px, 140.0px); }
+    26.12% { transform: translate(180.4px, 140.0px); }
+    26.41% { transform: translate(191.2px, 140.0px); }
+    26.70% { transform: translate(202.0px, 140.0px); }
+    26.98% { transform: translate(212.8px, 140.0px); }
+    27.27% { transform: translate(223.6px, 140.0px); }
+    27.56% { transform: translate(234.4px, 140.0px); }
+    27.85% { transform: translate(245.2px, 140.0px); }
+    28.14% { transform: translate(256.0px, 140.0px); }
+    28.43% { transform: translate(266.8px, 140.0px); }
+    28.72% { transform: translate(277.6px, 140.0px); }
+    29.00% { transform: translate(288.4px, 140.0px); }
+    29.29% { transform: translate(299.2px, 140.0px); }
+    29.58% { transform: translate(310.0px, 140.0px); }
+    29.87% { transform: translate(320.8px, 140.0px); }
+    30.16% { transform: translate(331.6px, 140.0px); }
+    30.45% { transform: translate(342.4px, 140.0px); }
+    30.74% { transform: translate(353.2px, 140.0px); }
+    31.02% { transform: translate(364.0px, 140.0px); }
+    31.31% { transform: translate(374.8px, 140.0px); }
+    31.60% { transform: translate(385.6px, 140.0px); }
+    31.89% { transform: translate(396.4px, 140.0px); }
+    32.18% { transform: translate(407.2px, 140.0px); }
+    32.47% { transform: translate(418.0px, 140.0px); }
+    32.76% { transform: translate(428.8px, 140.0px); }
+    33.04% { transform: translate(439.6px, 140.0px); }
+    33.33% { transform: translate(450.4px, 140.0px); }
+    33.62% { transform: translate(461.2px, 140.0px); }
+    33.91% { transform: translate(472.0px, 140.0px); }
+    34.20% { transform: translate(482.8px, 140.0px); }
+    34.49% { transform: translate(52.0px, 230.0px); }
+    34.78% { transform: translate(64.0px, 230.0px); }
+    35.06% { transform: translate(76.0px, 230.0px); }
+    35.35% { transform: translate(50.8px, 265.0px); }
+    35.64% { transform: translate(61.6px, 265.0px); }
+    35.93% { transform: translate(72.4px, 265.0px); }
+    36.22% { transform: translate(83.2px, 265.0px); }
+    36.51% { transform: translate(94.0px, 265.0px); }
+    36.80% { transform: translate(104.8px, 265.0px); }
+    37.09% { transform: translate(115.6px, 265.0px); }
+    37.37% { transform: translate(126.4px, 265.0px); }
+    37.66% { transform: translate(137.2px, 265.0px); }
+    37.95% { transform: translate(148.0px, 265.0px); }
+    38.24% { transform: translate(158.8px, 265.0px); }
+    38.53% { transform: translate(169.6px, 265.0px); }
+    38.82% { transform: translate(180.4px, 265.0px); }
+    39.11% { transform: translate(191.2px, 265.0px); }
+    39.39% { transform: translate(202.0px, 265.0px); }
+    39.68% { transform: translate(212.8px, 265.0px); }
+    39.97% { transform: translate(223.6px, 265.0px); }
+    40.26% { transform: translate(234.4px, 265.0px); }
+    40.55% { transform: translate(245.2px, 265.0px); }
+    40.84% { transform: translate(256.0px, 265.0px); }
+    41.13% { transform: translate(266.8px, 265.0px); }
+    41.41% { transform: translate(277.6px, 265.0px); }
+    41.70% { transform: translate(288.4px, 265.0px); }
+    41.99% { transform: translate(299.2px, 265.0px); }
+    42.28% { transform: translate(310.0px, 265.0px); }
+    42.57% { transform: translate(320.8px, 265.0px); }
+    42.86% { transform: translate(331.6px, 265.0px); }
+    43.15% { transform: translate(342.4px, 265.0px); }
+    43.43% { transform: translate(353.2px, 265.0px); }
+    43.72% { transform: translate(364.0px, 265.0px); }
+    44.01% { transform: translate(374.8px, 265.0px); }
+    44.30% { transform: translate(385.6px, 265.0px); }
+    44.59% { transform: translate(396.4px, 265.0px); }
+    44.88% { transform: translate(407.2px, 265.0px); }
+    45.17% { transform: translate(418.0px, 265.0px); }
+    45.45% { transform: translate(428.8px, 265.0px); }
+    45.74% { transform: translate(439.6px, 265.0px); }
+    46.03% { transform: translate(450.4px, 265.0px); }
+    46.32% { transform: translate(461.2px, 265.0px); }
+    46.61% { transform: translate(472.0px, 265.0px); }
+    46.90% { transform: translate(482.8px, 265.0px); }
+    47.19% { transform: translate(493.6px, 265.0px); }
+    47.47% { transform: translate(504.4px, 265.0px); }
+    47.76% { transform: translate(515.2px, 265.0px); }
+    48.05% { transform: translate(526.0px, 265.0px); }
+    48.34% { transform: translate(536.8px, 265.0px); }
+    48.63% { transform: translate(547.6px, 265.0px); }
+    48.92% { transform: translate(558.4px, 265.0px); }
+    49.21% { transform: translate(569.2px, 265.0px); }
+    49.49% { transform: translate(580.0px, 265.0px); }
+    49.78% { transform: translate(590.8px, 265.0px); }
+    50.07% { transform: translate(601.6px, 265.0px); }
+    50.36% { transform: translate(612.4px, 265.0px); }
+    50.65% { transform: translate(623.2px, 265.0px); }
+    50.94% { transform: translate(634.0px, 265.0px); }
+    51.23% { transform: translate(644.8px, 265.0px); }
+    51.52% { transform: translate(655.6px, 265.0px); }
+    51.80% { transform: translate(666.4px, 265.0px); }
+    52.09% { transform: translate(677.2px, 265.0px); }
+    52.38% { transform: translate(688.0px, 265.0px); }
+    52.67% { transform: translate(698.8px, 265.0px); }
+    52.96% { transform: translate(709.6px, 265.0px); }
+    53.25% { transform: translate(720.4px, 265.0px); }
+    53.54% { transform: translate(731.2px, 265.0px); }
+    53.82% { transform: translate(742.0px, 265.0px); }
+    54.11% { transform: translate(752.8px, 265.0px); }
+    54.40% { transform: translate(763.6px, 265.0px); }
+    54.69% { transform: translate(774.4px, 265.0px); }
+    54.98% { transform: translate(785.2px, 265.0px); }
+    55.27% { transform: translate(50.8px, 295.0px); }
+    55.56% { transform: translate(61.6px, 295.0px); }
+    55.84% { transform: translate(72.4px, 295.0px); }
+    56.13% { transform: translate(83.2px, 295.0px); }
+    56.42% { transform: translate(94.0px, 295.0px); }
+    56.71% { transform: translate(104.8px, 295.0px); }
+    57.00% { transform: translate(115.6px, 295.0px); }
+    57.29% { transform: translate(126.4px, 295.0px); }
+    57.58% { transform: translate(137.2px, 295.0px); }
+    57.86% { transform: translate(148.0px, 295.0px); }
+    58.15% { transform: translate(158.8px, 295.0px); }
+    58.44% { transform: translate(169.6px, 295.0px); }
+    58.73% { transform: translate(180.4px, 295.0px); }
+    59.02% { transform: translate(191.2px, 295.0px); }
+    59.31% { transform: translate(202.0px, 295.0px); }
+    59.60% { transform: translate(212.8px, 295.0px); }
+    59.88% { transform: translate(223.6px, 295.0px); }
+    60.17% { transform: translate(234.4px, 295.0px); }
+    60.46% { transform: translate(245.2px, 295.0px); }
+    60.75% { transform: translate(256.0px, 295.0px); }
+    61.04% { transform: translate(266.8px, 295.0px); }
+    61.33% { transform: translate(277.6px, 295.0px); }
+    61.62% { transform: translate(288.4px, 295.0px); }
+    61.90% { transform: translate(299.2px, 295.0px); }
+    62.19% { transform: translate(310.0px, 295.0px); }
+    62.48% { transform: translate(320.8px, 295.0px); }
+    62.77% { transform: translate(331.6px, 295.0px); }
+    63.06% { transform: translate(342.4px, 295.0px); }
+    63.35% { transform: translate(353.2px, 295.0px); }
+    63.64% { transform: translate(364.0px, 295.0px); }
+    63.92% { transform: translate(374.8px, 295.0px); }
+    64.21% { transform: translate(385.6px, 295.0px); }
+    64.50% { transform: translate(396.4px, 295.0px); }
+    64.79% { transform: translate(407.2px, 295.0px); }
+    65.08% { transform: translate(418.0px, 295.0px); }
+    65.37% { transform: translate(428.8px, 295.0px); }
+    65.66% { transform: translate(439.6px, 295.0px); }
+    65.95% { transform: translate(450.4px, 295.0px); }
+    66.23% { transform: translate(461.2px, 295.0px); }
+    66.52% { transform: translate(472.0px, 295.0px); }
+    66.81% { transform: translate(482.8px, 295.0px); }
+    67.10% { transform: translate(493.6px, 295.0px); }
+    67.39% { transform: translate(504.4px, 295.0px); }
+    67.68% { transform: translate(515.2px, 295.0px); }
+    67.97% { transform: translate(526.0px, 295.0px); }
+    68.25% { transform: translate(536.8px, 295.0px); }
+    68.54% { transform: translate(547.6px, 295.0px); }
+    68.83% { transform: translate(558.4px, 295.0px); }
+    69.12% { transform: translate(569.2px, 295.0px); }
+    69.41% { transform: translate(580.0px, 295.0px); }
+    69.70% { transform: translate(590.8px, 295.0px); }
+    69.99% { transform: translate(601.6px, 295.0px); }
+    70.27% { transform: translate(612.4px, 295.0px); }
+    70.56% { transform: translate(623.2px, 295.0px); }
+    70.85% { transform: translate(634.0px, 295.0px); }
+    71.14% { transform: translate(644.8px, 295.0px); }
+    71.43% { transform: translate(655.6px, 295.0px); }
+    71.72% { transform: translate(666.4px, 295.0px); }
+    72.01% { transform: translate(677.2px, 295.0px); }
+    72.29% { transform: translate(688.0px, 295.0px); }
+    72.58% { transform: translate(698.8px, 295.0px); }
+    72.87% { transform: translate(709.6px, 295.0px); }
+    73.16% { transform: translate(720.4px, 295.0px); }
+    73.45% { transform: translate(731.2px, 295.0px); }
+    73.74% { transform: translate(742.0px, 295.0px); }
+    74.03% { transform: translate(752.8px, 295.0px); }
+    74.31% { transform: translate(763.6px, 295.0px); }
+    74.60% { transform: translate(774.4px, 295.0px); }
+    74.89% { transform: translate(52.0px, 385.0px); }
+    75.18% { transform: translate(64.0px, 385.0px); }
+    75.47% { transform: translate(76.0px, 385.0px); }
+    75.76% { transform: translate(88.0px, 385.0px); }
+    76.05% { transform: translate(100.0px, 385.0px); }
+    76.33% { transform: translate(49.6px, 420.0px); }
+    76.62% { transform: translate(59.2px, 420.0px); }
+    76.91% { transform: translate(68.8px, 420.0px); }
+    77.20% { transform: translate(78.4px, 420.0px); }
+    77.49% { transform: translate(88.0px, 420.0px); }
+    77.78% { transform: translate(789.6px, 420.0px); }
+    78.07% { transform: translate(799.2px, 420.0px); }
+    78.35% { transform: translate(49.6px, 458.0px); }
+    78.64% { transform: translate(59.2px, 458.0px); }
+    78.93% { transform: translate(68.8px, 458.0px); }
+    79.22% { transform: translate(78.4px, 458.0px); }
+    79.51% { transform: translate(88.0px, 458.0px); }
+    79.80% { transform: translate(97.6px, 458.0px); }
+    80.09% { transform: translate(107.2px, 458.0px); }
+    80.38% { transform: translate(116.8px, 458.0px); }
+    80.66% { transform: translate(126.4px, 458.0px); }
+    80.95% { transform: translate(789.6px, 458.0px); }
+    81.24% { transform: translate(49.6px, 496.0px); }
+    81.53% { transform: translate(59.2px, 496.0px); }
+    81.82% { transform: translate(68.8px, 496.0px); }
+    82.11% { transform: translate(78.4px, 496.0px); }
+    82.40% { transform: translate(88.0px, 496.0px); }
+    82.68% { transform: translate(789.6px, 496.0px); }
+    82.97% { transform: translate(49.6px, 534.0px); }
+    83.26% { transform: translate(59.2px, 534.0px); }
+    83.55% { transform: translate(68.8px, 534.0px); }
+    83.84% { transform: translate(78.4px, 534.0px); }
+    84.13% { transform: translate(88.0px, 534.0px); }
+    84.42% { transform: translate(97.6px, 534.0px); }
+    84.70% { transform: translate(107.2px, 534.0px); }
+    84.99% { transform: translate(116.8px, 534.0px); }
+    85.28% { transform: translate(126.4px, 534.0px); }
+    85.57% { transform: translate(789.6px, 534.0px); }
+    85.86% { transform: translate(49.6px, 572.0px); }
+    86.15% { transform: translate(59.2px, 572.0px); }
+    86.44% { transform: translate(68.8px, 572.0px); }
+    86.72% { transform: translate(78.4px, 572.0px); }
+    87.01% { transform: translate(88.0px, 572.0px); }
+    87.30% { transform: translate(789.6px, 572.0px); }
+    87.59% { transform: translate(52.0px, 652.0px); }
+    87.88% { transform: translate(64.0px, 652.0px); }
+    88.17% { transform: translate(76.0px, 652.0px); }
+    88.46% { transform: translate(88.0px, 652.0px); }
+    88.74% { transform: translate(100.0px, 652.0px); }
+    89.03% { transform: translate(112.0px, 652.0px); }
+    89.32% { transform: translate(124.0px, 652.0px); }
+    89.61% { transform: translate(136.0px, 652.0px); }
+    89.90% { transform: translate(148.0px, 652.0px); }
+    90.19% { transform: translate(49.6px, 687.0px); }
+    90.48% { transform: translate(59.2px, 687.0px); }
+    90.76% { transform: translate(68.8px, 687.0px); }
+    91.05% { transform: translate(78.4px, 687.0px); }
+    91.34% { transform: translate(88.0px, 687.0px); }
+    91.63% { transform: translate(97.6px, 687.0px); }
+    91.92% { transform: translate(789.6px, 687.0px); }
+    92.21% { transform: translate(799.2px, 687.0px); }
+    92.50% { transform: translate(808.8px, 687.0px); }
+    92.78% { transform: translate(49.6px, 725.0px); }
+    93.07% { transform: translate(59.2px, 725.0px); }
+    93.36% { transform: translate(68.8px, 725.0px); }
+    93.65% { transform: translate(78.4px, 725.0px); }
+    93.94% { transform: translate(789.6px, 725.0px); }
+    94.23% { transform: translate(799.2px, 725.0px); }
+    94.52% { transform: translate(808.8px, 725.0px); }
+    94.81% { transform: translate(49.6px, 763.0px); }
+    95.09% { transform: translate(59.2px, 763.0px); }
+    95.38% { transform: translate(68.8px, 763.0px); }
+    95.67% { transform: translate(78.4px, 763.0px); }
+    95.96% { transform: translate(88.0px, 763.0px); }
+    96.25% { transform: translate(789.6px, 763.0px); }
+    96.54% { transform: translate(799.2px, 763.0px); }
+    96.83% { transform: translate(49.6px, 801.0px); }
+    97.11% { transform: translate(59.2px, 801.0px); }
+    97.40% { transform: translate(68.8px, 801.0px); }
+    97.69% { transform: translate(78.4px, 801.0px); }
+    97.98% { transform: translate(88.0px, 801.0px); }
+    98.27% { transform: translate(97.6px, 801.0px); }
+    98.56% { transform: translate(107.2px, 801.0px); }
+    98.85% { transform: translate(116.8px, 801.0px); }
+    99.13% { transform: translate(126.4px, 801.0px); }
+    99.42% { transform: translate(789.6px, 801.0px); }
+    99.71% { transform: translate(799.2px, 801.0px); }
     100% { transform: translate(799.2px, 801.0px); }
   }
   </style>
@@ -310,53 +310,56 @@
   <circle cx="728" cy="22" r="7" fill="#ffffff"/>
   <circle cx="754" cy="22" r="7" fill="#ffffff"/>
   <circle cx="780" cy="22" r="7" fill="#ffffff"/>
+  <text x="728" y="26" font-size="11" fill="#000000" text-anchor="middle">&#9625;</text>
+  <text x="754" y="26" font-size="13" fill="#000000" text-anchor="middle">&#8722;</text>
+  <text x="780" y="26" font-size="13" fill="#000000" text-anchor="middle">&#215;</text>
   <text x="410" y="28" font-size="14" fill="#e6e6e6" text-anchor="middle"><tspan style="animation: type .01s linear 0.00s both">K</tspan><tspan style="animation: type .01s linear 0.04s both">c</tspan><tspan style="animation: type .01s linear 0.08s both">y</tspan><tspan style="animation: type .01s linear 0.12s both">b</tspan><tspan style="animation: type .01s linear 0.16s both">3</tspan><tspan style="animation: type .01s linear 0.20s both">r</tspan><tspan style="animation: type .01s linear 0.24s both">@</tspan><tspan style="animation: type .01s linear 0.28s both">g</tspan><tspan style="animation: type .01s linear 0.32s both">i</tspan><tspan style="animation: type .01s linear 0.36s both">t</tspan><tspan style="animation: type .01s linear 0.40s both">h</tspan><tspan style="animation: type .01s linear 0.44s both">u</tspan><tspan style="animation: type .01s linear 0.48s both">b</tspan><tspan style="animation: type .01s linear 0.52s both">:</tspan><tspan style="animation: type .01s linear 0.56s both"> </tspan><tspan style="animation: type .01s linear 0.60s both">~</tspan></text>
   <text x="40" y="100" font-size="28" fill="#e6e6e6" font-weight="bold"><tspan style="animation: type .01s linear 0.64s both">K</tspan><tspan style="animation: type .01s linear 0.68s both">E</tspan><tspan style="animation: type .01s linear 0.72s both">S</tspan><tspan style="animation: type .01s linear 0.76s both">H</tspan><tspan style="animation: type .01s linear 0.80s both">A</tspan><tspan style="animation: type .01s linear 0.84s both">V</tspan><tspan style="animation: type .01s linear 0.88s both"> </tspan><tspan style="animation: type .01s linear 0.92s both">P</tspan><tspan style="animation: type .01s linear 0.96s both">A</tspan><tspan style="animation: type .01s linear 1.00s both">L</tspan></text>
-  <text x="40" y="140" font-size="18" fill="#e6e6e6"><tspan style="animation: type .01s linear 2.24s both">C</tspan><tspan style="animation: type .01s linear 2.28s both">o</tspan><tspan style="animation: type .01s linear 2.32s both">m</tspan><tspan style="animation: type .01s linear 2.36s both">p</tspan><tspan style="animation: type .01s linear 2.40s both">u</tspan><tspan style="animation: type .01s linear 2.44s both">t</tspan><tspan style="animation: type .01s linear 2.48s both">e</tspan><tspan style="animation: type .01s linear 2.52s both">r</tspan><tspan style="animation: type .01s linear 2.56s both"> </tspan><tspan style="animation: type .01s linear 2.60s both">E</tspan><tspan style="animation: type .01s linear 2.64s both">n</tspan><tspan style="animation: type .01s linear 2.68s both">g</tspan><tspan style="animation: type .01s linear 2.72s both">i</tspan><tspan style="animation: type .01s linear 2.76s both">n</tspan><tspan style="animation: type .01s linear 2.80s both">e</tspan><tspan style="animation: type .01s linear 2.84s both">e</tspan><tspan style="animation: type .01s linear 2.88s both">r</tspan><tspan style="animation: type .01s linear 2.92s both">i</tspan><tspan style="animation: type .01s linear 2.96s both">n</tspan><tspan style="animation: type .01s linear 3.00s both">g</tspan><tspan style="animation: type .01s linear 3.04s both"> </tspan><tspan style="animation: type .01s linear 3.08s both">S</tspan><tspan style="animation: type .01s linear 3.12s both">t</tspan><tspan style="animation: type .01s linear 3.16s both">u</tspan><tspan style="animation: type .01s linear 3.20s both">d</tspan><tspan style="animation: type .01s linear 3.24s both">e</tspan><tspan style="animation: type .01s linear 3.28s both">n</tspan><tspan style="animation: type .01s linear 3.32s both">t</tspan><tspan style="animation: type .01s linear 3.36s both"> </tspan><tspan style="animation: type .01s linear 3.40s both">|</tspan><tspan style="animation: type .01s linear 3.44s both"> </tspan><tspan style="animation: type .01s linear 3.48s both">V</tspan><tspan style="animation: type .01s linear 3.52s both">i</tspan><tspan style="animation: type .01s linear 3.56s both">b</tspan><tspan style="animation: type .01s linear 3.60s both">e</tspan><tspan style="animation: type .01s linear 3.64s both"> </tspan><tspan style="animation: type .01s linear 3.68s both">C</tspan><tspan style="animation: type .01s linear 3.72s both">o</tspan><tspan style="animation: type .01s linear 3.76s both">d</tspan><tspan style="animation: type .01s linear 3.80s both">e</tspan><tspan style="animation: type .01s linear 3.84s both">r</tspan></text>
+  <text x="40" y="140" font-size="18" fill="#e6e6e6"><tspan style="animation: type .01s linear 3.14s both">C</tspan><tspan style="animation: type .01s linear 3.18s both">o</tspan><tspan style="animation: type .01s linear 3.22s both">m</tspan><tspan style="animation: type .01s linear 3.26s both">p</tspan><tspan style="animation: type .01s linear 3.30s both">u</tspan><tspan style="animation: type .01s linear 3.34s both">t</tspan><tspan style="animation: type .01s linear 3.38s both">e</tspan><tspan style="animation: type .01s linear 3.42s both">r</tspan><tspan style="animation: type .01s linear 3.46s both"> </tspan><tspan style="animation: type .01s linear 3.50s both">E</tspan><tspan style="animation: type .01s linear 3.54s both">n</tspan><tspan style="animation: type .01s linear 3.58s both">g</tspan><tspan style="animation: type .01s linear 3.62s both">i</tspan><tspan style="animation: type .01s linear 3.66s both">n</tspan><tspan style="animation: type .01s linear 3.70s both">e</tspan><tspan style="animation: type .01s linear 3.74s both">e</tspan><tspan style="animation: type .01s linear 3.78s both">r</tspan><tspan style="animation: type .01s linear 3.82s both">i</tspan><tspan style="animation: type .01s linear 3.86s both">n</tspan><tspan style="animation: type .01s linear 3.90s both">g</tspan><tspan style="animation: type .01s linear 3.94s both"> </tspan><tspan style="animation: type .01s linear 3.98s both">S</tspan><tspan style="animation: type .01s linear 4.02s both">t</tspan><tspan style="animation: type .01s linear 4.06s both">u</tspan><tspan style="animation: type .01s linear 4.10s both">d</tspan><tspan style="animation: type .01s linear 4.14s both">e</tspan><tspan style="animation: type .01s linear 4.18s both">n</tspan><tspan style="animation: type .01s linear 4.22s both">t</tspan><tspan style="animation: type .01s linear 4.26s both"> </tspan><tspan style="animation: type .01s linear 4.30s both">|</tspan><tspan style="animation: type .01s linear 4.34s both"> </tspan><tspan style="animation: type .01s linear 4.38s both">V</tspan><tspan style="animation: type .01s linear 4.42s both">i</tspan><tspan style="animation: type .01s linear 4.46s both">b</tspan><tspan style="animation: type .01s linear 4.50s both">e</tspan><tspan style="animation: type .01s linear 4.54s both"> </tspan><tspan style="animation: type .01s linear 4.58s both">C</tspan><tspan style="animation: type .01s linear 4.62s both">o</tspan><tspan style="animation: type .01s linear 4.66s both">d</tspan><tspan style="animation: type .01s linear 4.70s both">e</tspan><tspan style="animation: type .01s linear 4.74s both">r</tspan></text>
   <line x1="40" y1="180" x2="780" y2="180" stroke="#333333" stroke-width="2"/>
-  <text x="40" y="230" font-size="20" fill="#e6e6e6" font-weight="bold"><tspan style="animation: type .01s linear 3.88s both">B</tspan><tspan style="animation: type .01s linear 3.92s both">i</tspan><tspan style="animation: type .01s linear 3.96s both">o</tspan></text>
-  <text x="40" y="265" font-size="18" fill="#e6e6e6"><tspan style="animation: type .01s linear 4.00s both">C</tspan><tspan style="animation: type .01s linear 4.04s both">o</tspan><tspan style="animation: type .01s linear 4.08s both">m</tspan><tspan style="animation: type .01s linear 4.12s both">p</tspan><tspan style="animation: type .01s linear 4.16s both">u</tspan><tspan style="animation: type .01s linear 4.20s both">t</tspan><tspan style="animation: type .01s linear 4.24s both">e</tspan><tspan style="animation: type .01s linear 4.28s both">r</tspan><tspan style="animation: type .01s linear 4.32s both"> </tspan><tspan style="animation: type .01s linear 4.36s both">e</tspan><tspan style="animation: type .01s linear 4.40s both">n</tspan><tspan style="animation: type .01s linear 4.44s both">g</tspan><tspan style="animation: type .01s linear 4.48s both">i</tspan><tspan style="animation: type .01s linear 4.52s both">n</tspan><tspan style="animation: type .01s linear 4.56s both">e</tspan><tspan style="animation: type .01s linear 4.60s both">e</tspan><tspan style="animation: type .01s linear 4.64s both">r</tspan><tspan style="animation: type .01s linear 4.68s both">i</tspan><tspan style="animation: type .01s linear 4.72s both">n</tspan><tspan style="animation: type .01s linear 4.76s both">g</tspan><tspan style="animation: type .01s linear 4.80s both"> </tspan><tspan style="animation: type .01s linear 4.84s both">s</tspan><tspan style="animation: type .01s linear 4.88s both">t</tspan><tspan style="animation: type .01s linear 4.92s both">u</tspan><tspan style="animation: type .01s linear 4.96s both">d</tspan><tspan style="animation: type .01s linear 5.00s both">e</tspan><tspan style="animation: type .01s linear 5.04s both">n</tspan><tspan style="animation: type .01s linear 5.08s both">t</tspan><tspan style="animation: type .01s linear 5.12s both"> </tspan><tspan style="animation: type .01s linear 5.16s both">&amp;</tspan><tspan style="animation: type .01s linear 5.20s both"> </tspan><tspan style="animation: type .01s linear 5.24s both">v</tspan><tspan style="animation: type .01s linear 5.28s both">i</tspan><tspan style="animation: type .01s linear 5.32s both">b</tspan><tspan style="animation: type .01s linear 5.36s both">e</tspan><tspan style="animation: type .01s linear 5.40s both"> </tspan><tspan style="animation: type .01s linear 5.44s both">c</tspan><tspan style="animation: type .01s linear 5.48s both">o</tspan><tspan style="animation: type .01s linear 5.52s both">d</tspan><tspan style="animation: type .01s linear 5.56s both">e</tspan><tspan style="animation: type .01s linear 5.60s both">r</tspan><tspan style="animation: type .01s linear 5.64s both"> </tspan><tspan style="animation: type .01s linear 5.68s both">-</tspan><tspan style="animation: type .01s linear 5.72s both"> </tspan><tspan style="animation: type .01s linear 5.76s both">b</tspan><tspan style="animation: type .01s linear 5.80s both">u</tspan><tspan style="animation: type .01s linear 5.84s both">i</tspan><tspan style="animation: type .01s linear 5.88s both">l</tspan><tspan style="animation: type .01s linear 5.92s both">d</tspan><tspan style="animation: type .01s linear 5.96s both">i</tspan><tspan style="animation: type .01s linear 6.00s both">n</tspan><tspan style="animation: type .01s linear 6.04s both">g</tspan><tspan style="animation: type .01s linear 6.08s both"> </tspan><tspan style="animation: type .01s linear 6.12s both">i</tspan><tspan style="animation: type .01s linear 6.16s both">n</tspan><tspan style="animation: type .01s linear 6.20s both"> </tspan><tspan style="animation: type .01s linear 6.24s both">P</tspan><tspan style="animation: type .01s linear 6.28s both">y</tspan><tspan style="animation: type .01s linear 6.32s both">t</tspan><tspan style="animation: type .01s linear 6.36s both">h</tspan><tspan style="animation: type .01s linear 6.40s both">o</tspan><tspan style="animation: type .01s linear 6.44s both">n</tspan><tspan style="animation: type .01s linear 6.48s both"> </tspan><tspan style="animation: type .01s linear 6.52s both">a</tspan><tspan style="animation: type .01s linear 6.56s both">n</tspan><tspan style="animation: type .01s linear 6.60s both">d</tspan><tspan style="animation: type .01s linear 6.64s both"> </tspan><tspan style="animation: type .01s linear 6.68s both">C</tspan><tspan style="animation: type .01s linear 6.72s both">,</tspan></text>
-  <text x="40" y="295" font-size="18" fill="#e6e6e6"><tspan style="animation: type .01s linear 6.76s both">l</tspan><tspan style="animation: type .01s linear 6.80s both">i</tspan><tspan style="animation: type .01s linear 6.84s both">v</tspan><tspan style="animation: type .01s linear 6.88s both">i</tspan><tspan style="animation: type .01s linear 6.92s both">n</tspan><tspan style="animation: type .01s linear 6.96s both">g</tspan><tspan style="animation: type .01s linear 7.00s both"> </tspan><tspan style="animation: type .01s linear 7.04s both">i</tspan><tspan style="animation: type .01s linear 7.08s both">n</tspan><tspan style="animation: type .01s linear 7.12s both"> </tspan><tspan style="animation: type .01s linear 7.16s both">t</tspan><tspan style="animation: type .01s linear 7.20s both">h</tspan><tspan style="animation: type .01s linear 7.24s both">e</tspan><tspan style="animation: type .01s linear 7.28s both"> </tspan><tspan style="animation: type .01s linear 7.32s both">L</tspan><tspan style="animation: type .01s linear 7.36s both">i</tspan><tspan style="animation: type .01s linear 7.40s both">n</tspan><tspan style="animation: type .01s linear 7.44s both">u</tspan><tspan style="animation: type .01s linear 7.48s both">x</tspan><tspan style="animation: type .01s linear 7.52s both"> </tspan><tspan style="animation: type .01s linear 7.56s both">t</tspan><tspan style="animation: type .01s linear 7.60s both">e</tspan><tspan style="animation: type .01s linear 7.64s both">r</tspan><tspan style="animation: type .01s linear 7.68s both">m</tspan><tspan style="animation: type .01s linear 7.72s both">i</tspan><tspan style="animation: type .01s linear 7.76s both">n</tspan><tspan style="animation: type .01s linear 7.80s both">a</tspan><tspan style="animation: type .01s linear 7.84s both">l</tspan><tspan style="animation: type .01s linear 7.88s both">,</tspan><tspan style="animation: type .01s linear 7.92s both"> </tspan><tspan style="animation: type .01s linear 7.96s both">a</tspan><tspan style="animation: type .01s linear 8.00s both">n</tspan><tspan style="animation: type .01s linear 8.04s both">d</tspan><tspan style="animation: type .01s linear 8.08s both"> </tspan><tspan style="animation: type .01s linear 8.12s both">b</tspan><tspan style="animation: type .01s linear 8.16s both">r</tspan><tspan style="animation: type .01s linear 8.20s both">e</tspan><tspan style="animation: type .01s linear 8.24s both">a</tspan><tspan style="animation: type .01s linear 8.28s both">k</tspan><tspan style="animation: type .01s linear 8.32s both">i</tspan><tspan style="animation: type .01s linear 8.36s both">n</tspan><tspan style="animation: type .01s linear 8.40s both">g</tspan><tspan style="animation: type .01s linear 8.44s both"> </tspan><tspan style="animation: type .01s linear 8.48s both">t</tspan><tspan style="animation: type .01s linear 8.52s both">h</tspan><tspan style="animation: type .01s linear 8.56s both">i</tspan><tspan style="animation: type .01s linear 8.60s both">n</tspan><tspan style="animation: type .01s linear 8.64s both">g</tspan><tspan style="animation: type .01s linear 8.68s both">s</tspan><tspan style="animation: type .01s linear 8.72s both"> </tspan><tspan style="animation: type .01s linear 8.76s both">t</tspan><tspan style="animation: type .01s linear 8.80s both">o</tspan><tspan style="animation: type .01s linear 8.84s both"> </tspan><tspan style="animation: type .01s linear 8.88s both">l</tspan><tspan style="animation: type .01s linear 8.92s both">e</tspan><tspan style="animation: type .01s linear 8.96s both">a</tspan><tspan style="animation: type .01s linear 9.00s both">r</tspan><tspan style="animation: type .01s linear 9.04s both">n</tspan><tspan style="animation: type .01s linear 9.08s both"> </tspan><tspan style="animation: type .01s linear 9.12s both">s</tspan><tspan style="animation: type .01s linear 9.16s both">e</tspan><tspan style="animation: type .01s linear 9.20s both">c</tspan><tspan style="animation: type .01s linear 9.24s both">u</tspan><tspan style="animation: type .01s linear 9.28s both">r</tspan><tspan style="animation: type .01s linear 9.32s both">i</tspan><tspan style="animation: type .01s linear 9.36s both">t</tspan><tspan style="animation: type .01s linear 9.40s both">y</tspan><tspan style="animation: type .01s linear 9.44s both">.</tspan></text>
+  <text x="40" y="230" font-size="20" fill="#e6e6e6" font-weight="bold"><tspan style="animation: type .01s linear 4.78s both">B</tspan><tspan style="animation: type .01s linear 4.82s both">i</tspan><tspan style="animation: type .01s linear 4.86s both">o</tspan></text>
+  <text x="40" y="265" font-size="18" fill="#e6e6e6"><tspan style="animation: type .01s linear 4.90s both">C</tspan><tspan style="animation: type .01s linear 4.94s both">o</tspan><tspan style="animation: type .01s linear 4.98s both">m</tspan><tspan style="animation: type .01s linear 5.02s both">p</tspan><tspan style="animation: type .01s linear 5.06s both">u</tspan><tspan style="animation: type .01s linear 5.10s both">t</tspan><tspan style="animation: type .01s linear 5.14s both">e</tspan><tspan style="animation: type .01s linear 5.18s both">r</tspan><tspan style="animation: type .01s linear 5.22s both"> </tspan><tspan style="animation: type .01s linear 5.26s both">e</tspan><tspan style="animation: type .01s linear 5.30s both">n</tspan><tspan style="animation: type .01s linear 5.34s both">g</tspan><tspan style="animation: type .01s linear 5.38s both">i</tspan><tspan style="animation: type .01s linear 5.42s both">n</tspan><tspan style="animation: type .01s linear 5.46s both">e</tspan><tspan style="animation: type .01s linear 5.50s both">e</tspan><tspan style="animation: type .01s linear 5.54s both">r</tspan><tspan style="animation: type .01s linear 5.58s both">i</tspan><tspan style="animation: type .01s linear 5.62s both">n</tspan><tspan style="animation: type .01s linear 5.66s both">g</tspan><tspan style="animation: type .01s linear 5.70s both"> </tspan><tspan style="animation: type .01s linear 5.74s both">s</tspan><tspan style="animation: type .01s linear 5.78s both">t</tspan><tspan style="animation: type .01s linear 5.82s both">u</tspan><tspan style="animation: type .01s linear 5.86s both">d</tspan><tspan style="animation: type .01s linear 5.90s both">e</tspan><tspan style="animation: type .01s linear 5.94s both">n</tspan><tspan style="animation: type .01s linear 5.98s both">t</tspan><tspan style="animation: type .01s linear 6.02s both"> </tspan><tspan style="animation: type .01s linear 6.06s both">&amp;</tspan><tspan style="animation: type .01s linear 6.10s both"> </tspan><tspan style="animation: type .01s linear 6.14s both">v</tspan><tspan style="animation: type .01s linear 6.18s both">i</tspan><tspan style="animation: type .01s linear 6.22s both">b</tspan><tspan style="animation: type .01s linear 6.26s both">e</tspan><tspan style="animation: type .01s linear 6.30s both"> </tspan><tspan style="animation: type .01s linear 6.34s both">c</tspan><tspan style="animation: type .01s linear 6.38s both">o</tspan><tspan style="animation: type .01s linear 6.42s both">d</tspan><tspan style="animation: type .01s linear 6.46s both">e</tspan><tspan style="animation: type .01s linear 6.50s both">r</tspan><tspan style="animation: type .01s linear 6.54s both"> </tspan><tspan style="animation: type .01s linear 6.58s both">-</tspan><tspan style="animation: type .01s linear 6.62s both"> </tspan><tspan style="animation: type .01s linear 6.66s both">b</tspan><tspan style="animation: type .01s linear 6.70s both">u</tspan><tspan style="animation: type .01s linear 6.74s both">i</tspan><tspan style="animation: type .01s linear 6.78s both">l</tspan><tspan style="animation: type .01s linear 6.82s both">d</tspan><tspan style="animation: type .01s linear 6.86s both">i</tspan><tspan style="animation: type .01s linear 6.90s both">n</tspan><tspan style="animation: type .01s linear 6.94s both">g</tspan><tspan style="animation: type .01s linear 6.98s both"> </tspan><tspan style="animation: type .01s linear 7.02s both">i</tspan><tspan style="animation: type .01s linear 7.06s both">n</tspan><tspan style="animation: type .01s linear 7.10s both"> </tspan><tspan style="animation: type .01s linear 7.14s both">P</tspan><tspan style="animation: type .01s linear 7.18s both">y</tspan><tspan style="animation: type .01s linear 7.22s both">t</tspan><tspan style="animation: type .01s linear 7.26s both">h</tspan><tspan style="animation: type .01s linear 7.30s both">o</tspan><tspan style="animation: type .01s linear 7.34s both">n</tspan><tspan style="animation: type .01s linear 7.38s both"> </tspan><tspan style="animation: type .01s linear 7.42s both">a</tspan><tspan style="animation: type .01s linear 7.46s both">n</tspan><tspan style="animation: type .01s linear 7.50s both">d</tspan><tspan style="animation: type .01s linear 7.54s both"> </tspan><tspan style="animation: type .01s linear 7.58s both">C</tspan><tspan style="animation: type .01s linear 7.62s both">,</tspan></text>
+  <text x="40" y="295" font-size="18" fill="#e6e6e6"><tspan style="animation: type .01s linear 7.66s both">l</tspan><tspan style="animation: type .01s linear 7.70s both">i</tspan><tspan style="animation: type .01s linear 7.74s both">v</tspan><tspan style="animation: type .01s linear 7.78s both">i</tspan><tspan style="animation: type .01s linear 7.82s both">n</tspan><tspan style="animation: type .01s linear 7.86s both">g</tspan><tspan style="animation: type .01s linear 7.90s both"> </tspan><tspan style="animation: type .01s linear 7.94s both">i</tspan><tspan style="animation: type .01s linear 7.98s both">n</tspan><tspan style="animation: type .01s linear 8.02s both"> </tspan><tspan style="animation: type .01s linear 8.06s both">t</tspan><tspan style="animation: type .01s linear 8.10s both">h</tspan><tspan style="animation: type .01s linear 8.14s both">e</tspan><tspan style="animation: type .01s linear 8.18s both"> </tspan><tspan style="animation: type .01s linear 8.22s both">L</tspan><tspan style="animation: type .01s linear 8.26s both">i</tspan><tspan style="animation: type .01s linear 8.30s both">n</tspan><tspan style="animation: type .01s linear 8.34s both">u</tspan><tspan style="animation: type .01s linear 8.38s both">x</tspan><tspan style="animation: type .01s linear 8.42s both"> </tspan><tspan style="animation: type .01s linear 8.46s both">t</tspan><tspan style="animation: type .01s linear 8.50s both">e</tspan><tspan style="animation: type .01s linear 8.54s both">r</tspan><tspan style="animation: type .01s linear 8.58s both">m</tspan><tspan style="animation: type .01s linear 8.62s both">i</tspan><tspan style="animation: type .01s linear 8.66s both">n</tspan><tspan style="animation: type .01s linear 8.70s both">a</tspan><tspan style="animation: type .01s linear 8.74s both">l</tspan><tspan style="animation: type .01s linear 8.78s both">,</tspan><tspan style="animation: type .01s linear 8.82s both"> </tspan><tspan style="animation: type .01s linear 8.86s both">a</tspan><tspan style="animation: type .01s linear 8.90s both">n</tspan><tspan style="animation: type .01s linear 8.94s both">d</tspan><tspan style="animation: type .01s linear 8.98s both"> </tspan><tspan style="animation: type .01s linear 9.02s both">b</tspan><tspan style="animation: type .01s linear 9.06s both">r</tspan><tspan style="animation: type .01s linear 9.10s both">e</tspan><tspan style="animation: type .01s linear 9.14s both">a</tspan><tspan style="animation: type .01s linear 9.18s both">k</tspan><tspan style="animation: type .01s linear 9.22s both">i</tspan><tspan style="animation: type .01s linear 9.26s both">n</tspan><tspan style="animation: type .01s linear 9.30s both">g</tspan><tspan style="animation: type .01s linear 9.34s both"> </tspan><tspan style="animation: type .01s linear 9.38s both">t</tspan><tspan style="animation: type .01s linear 9.42s both">h</tspan><tspan style="animation: type .01s linear 9.46s both">i</tspan><tspan style="animation: type .01s linear 9.50s both">n</tspan><tspan style="animation: type .01s linear 9.54s both">g</tspan><tspan style="animation: type .01s linear 9.58s both">s</tspan><tspan style="animation: type .01s linear 9.62s both"> </tspan><tspan style="animation: type .01s linear 9.66s both">t</tspan><tspan style="animation: type .01s linear 9.70s both">o</tspan><tspan style="animation: type .01s linear 9.74s both"> </tspan><tspan style="animation: type .01s linear 9.78s both">l</tspan><tspan style="animation: type .01s linear 9.82s both">e</tspan><tspan style="animation: type .01s linear 9.86s both">a</tspan><tspan style="animation: type .01s linear 9.90s both">r</tspan><tspan style="animation: type .01s linear 9.94s both">n</tspan><tspan style="animation: type .01s linear 9.98s both"> </tspan><tspan style="animation: type .01s linear 10.02s both">s</tspan><tspan style="animation: type .01s linear 10.06s both">e</tspan><tspan style="animation: type .01s linear 10.10s both">c</tspan><tspan style="animation: type .01s linear 10.14s both">u</tspan><tspan style="animation: type .01s linear 10.18s both">r</tspan><tspan style="animation: type .01s linear 10.22s both">i</tspan><tspan style="animation: type .01s linear 10.26s both">t</tspan><tspan style="animation: type .01s linear 10.30s both">y</tspan><tspan style="animation: type .01s linear 10.34s both">.</tspan></text>
   <line x1="40" y1="335" x2="780" y2="335" stroke="#333333" stroke-width="2"/>
-  <text x="40" y="385" font-size="20" fill="#e6e6e6" font-weight="bold"><tspan style="animation: type .01s linear 9.48s both">S</tspan><tspan style="animation: type .01s linear 9.52s both">t</tspan><tspan style="animation: type .01s linear 9.56s both">a</tspan><tspan style="animation: type .01s linear 9.60s both">t</tspan><tspan style="animation: type .01s linear 9.64s both">s</tspan></text>
-  <text x="40" y="420" font-size="16" fill="#e6e6e6"><tspan style="animation: type .01s linear 9.68s both">r</tspan><tspan style="animation: type .01s linear 9.72s both">e</tspan><tspan style="animation: type .01s linear 9.76s both">p</tspan><tspan style="animation: type .01s linear 9.80s both">o</tspan><tspan style="animation: type .01s linear 9.84s both">s</tspan></text>
+  <text x="40" y="385" font-size="20" fill="#e6e6e6" font-weight="bold"><tspan style="animation: type .01s linear 10.38s both">S</tspan><tspan style="animation: type .01s linear 10.42s both">t</tspan><tspan style="animation: type .01s linear 10.46s both">a</tspan><tspan style="animation: type .01s linear 10.50s both">t</tspan><tspan style="animation: type .01s linear 10.54s both">s</tspan></text>
+  <text x="40" y="420" font-size="16" fill="#e6e6e6"><tspan style="animation: type .01s linear 10.58s both">r</tspan><tspan style="animation: type .01s linear 10.62s both">e</tspan><tspan style="animation: type .01s linear 10.66s both">p</tspan><tspan style="animation: type .01s linear 10.70s both">o</tspan><tspan style="animation: type .01s linear 10.74s both">s</tspan></text>
   <rect x="200" y="407" width="480" height="16" fill="#1a1a1a"/>
-  <rect x="200" y="407" width="480" height="16" fill="#ffffff" style="animation: fade .3s linear 9.88s both"/>
-  <text x="780" y="420" font-size="16" fill="#e6e6e6" text-anchor="end"><tspan style="animation: type .01s linear 9.88s both">1</tspan><tspan style="animation: type .01s linear 9.92s both">4</tspan></text>
-  <text x="40" y="458" font-size="16" fill="#e6e6e6"><tspan style="animation: type .01s linear 9.96s both">f</tspan><tspan style="animation: type .01s linear 10.00s both">o</tspan><tspan style="animation: type .01s linear 10.04s both">l</tspan><tspan style="animation: type .01s linear 10.08s both">l</tspan><tspan style="animation: type .01s linear 10.12s both">o</tspan><tspan style="animation: type .01s linear 10.16s both">w</tspan><tspan style="animation: type .01s linear 10.20s both">i</tspan><tspan style="animation: type .01s linear 10.24s both">n</tspan><tspan style="animation: type .01s linear 10.28s both">g</tspan></text>
+  <rect x="200" y="407" width="480" height="16" fill="#ffffff" style="animation: fade .3s linear 10.78s both"/>
+  <text x="780" y="420" font-size="16" fill="#e6e6e6" text-anchor="end"><tspan style="animation: type .01s linear 10.78s both">1</tspan><tspan style="animation: type .01s linear 10.82s both">4</tspan></text>
+  <text x="40" y="458" font-size="16" fill="#e6e6e6"><tspan style="animation: type .01s linear 10.86s both">f</tspan><tspan style="animation: type .01s linear 10.90s both">o</tspan><tspan style="animation: type .01s linear 10.94s both">l</tspan><tspan style="animation: type .01s linear 10.98s both">l</tspan><tspan style="animation: type .01s linear 11.02s both">o</tspan><tspan style="animation: type .01s linear 11.06s both">w</tspan><tspan style="animation: type .01s linear 11.10s both">i</tspan><tspan style="animation: type .01s linear 11.14s both">n</tspan><tspan style="animation: type .01s linear 11.18s both">g</tspan></text>
   <rect x="200" y="445" width="480" height="16" fill="#1a1a1a"/>
-  <rect x="200" y="445" width="205" height="16" fill="#ffffff" style="animation: fade .3s linear 10.32s both"/>
-  <text x="780" y="458" font-size="16" fill="#e6e6e6" text-anchor="end"><tspan style="animation: type .01s linear 10.32s both">6</tspan></text>
-  <text x="40" y="496" font-size="16" fill="#e6e6e6"><tspan style="animation: type .01s linear 10.36s both">s</tspan><tspan style="animation: type .01s linear 10.40s both">t</tspan><tspan style="animation: type .01s linear 10.44s both">a</tspan><tspan style="animation: type .01s linear 10.48s both">r</tspan><tspan style="animation: type .01s linear 10.52s both">s</tspan></text>
+  <rect x="200" y="445" width="205" height="16" fill="#ffffff" style="animation: fade .3s linear 11.22s both"/>
+  <text x="780" y="458" font-size="16" fill="#e6e6e6" text-anchor="end"><tspan style="animation: type .01s linear 11.22s both">6</tspan></text>
+  <text x="40" y="496" font-size="16" fill="#e6e6e6"><tspan style="animation: type .01s linear 11.26s both">s</tspan><tspan style="animation: type .01s linear 11.30s both">t</tspan><tspan style="animation: type .01s linear 11.34s both">a</tspan><tspan style="animation: type .01s linear 11.38s both">r</tspan><tspan style="animation: type .01s linear 11.42s both">s</tspan></text>
   <rect x="200" y="483" width="480" height="16" fill="#1a1a1a"/>
-  <rect x="200" y="483" width="68" height="16" fill="#ffffff" style="animation: fade .3s linear 10.56s both"/>
-  <text x="780" y="496" font-size="16" fill="#e6e6e6" text-anchor="end"><tspan style="animation: type .01s linear 10.56s both">2</tspan></text>
-  <text x="40" y="534" font-size="16" fill="#e6e6e6"><tspan style="animation: type .01s linear 10.60s both">f</tspan><tspan style="animation: type .01s linear 10.64s both">o</tspan><tspan style="animation: type .01s linear 10.68s both">l</tspan><tspan style="animation: type .01s linear 10.72s both">l</tspan><tspan style="animation: type .01s linear 10.76s both">o</tspan><tspan style="animation: type .01s linear 10.80s both">w</tspan><tspan style="animation: type .01s linear 10.84s both">e</tspan><tspan style="animation: type .01s linear 10.88s both">r</tspan><tspan style="animation: type .01s linear 10.92s both">s</tspan></text>
+  <rect x="200" y="483" width="68" height="16" fill="#ffffff" style="animation: fade .3s linear 11.46s both"/>
+  <text x="780" y="496" font-size="16" fill="#e6e6e6" text-anchor="end"><tspan style="animation: type .01s linear 11.46s both">2</tspan></text>
+  <text x="40" y="534" font-size="16" fill="#e6e6e6"><tspan style="animation: type .01s linear 11.50s both">f</tspan><tspan style="animation: type .01s linear 11.54s both">o</tspan><tspan style="animation: type .01s linear 11.58s both">l</tspan><tspan style="animation: type .01s linear 11.62s both">l</tspan><tspan style="animation: type .01s linear 11.66s both">o</tspan><tspan style="animation: type .01s linear 11.70s both">w</tspan><tspan style="animation: type .01s linear 11.74s both">e</tspan><tspan style="animation: type .01s linear 11.78s both">r</tspan><tspan style="animation: type .01s linear 11.82s both">s</tspan></text>
   <rect x="200" y="521" width="480" height="16" fill="#1a1a1a"/>
-  <rect x="200" y="521" width="34" height="16" fill="#ffffff" style="animation: fade .3s linear 10.96s both"/>
-  <text x="780" y="534" font-size="16" fill="#e6e6e6" text-anchor="end"><tspan style="animation: type .01s linear 10.96s both">1</tspan></text>
-  <text x="40" y="572" font-size="16" fill="#e6e6e6"><tspan style="animation: type .01s linear 11.00s both">f</tspan><tspan style="animation: type .01s linear 11.04s both">o</tspan><tspan style="animation: type .01s linear 11.08s both">r</tspan><tspan style="animation: type .01s linear 11.12s both">k</tspan><tspan style="animation: type .01s linear 11.16s both">s</tspan></text>
+  <rect x="200" y="521" width="34" height="16" fill="#ffffff" style="animation: fade .3s linear 11.86s both"/>
+  <text x="780" y="534" font-size="16" fill="#e6e6e6" text-anchor="end"><tspan style="animation: type .01s linear 11.86s both">1</tspan></text>
+  <text x="40" y="572" font-size="16" fill="#e6e6e6"><tspan style="animation: type .01s linear 11.90s both">f</tspan><tspan style="animation: type .01s linear 11.94s both">o</tspan><tspan style="animation: type .01s linear 11.98s both">r</tspan><tspan style="animation: type .01s linear 12.02s both">k</tspan><tspan style="animation: type .01s linear 12.06s both">s</tspan></text>
   <rect x="200" y="559" width="480" height="16" fill="#1a1a1a"/>
-  <rect x="200" y="559" width="0" height="16" fill="#ffffff" style="animation: fade .3s linear 11.20s both"/>
-  <text x="780" y="572" font-size="16" fill="#e6e6e6" text-anchor="end"><tspan style="animation: type .01s linear 11.20s both">0</tspan></text>
+  <rect x="200" y="559" width="0" height="16" fill="#ffffff" style="animation: fade .3s linear 12.10s both"/>
+  <text x="780" y="572" font-size="16" fill="#e6e6e6" text-anchor="end"><tspan style="animation: type .01s linear 12.10s both">0</tspan></text>
   <line x1="40" y1="602" x2="780" y2="602" stroke="#333333" stroke-width="2"/>
-  <text x="40" y="652" font-size="20" fill="#e6e6e6" font-weight="bold"><tspan style="animation: type .01s linear 11.24s both">L</tspan><tspan style="animation: type .01s linear 11.28s both">a</tspan><tspan style="animation: type .01s linear 11.32s both">n</tspan><tspan style="animation: type .01s linear 11.36s both">g</tspan><tspan style="animation: type .01s linear 11.40s both">u</tspan><tspan style="animation: type .01s linear 11.44s both">a</tspan><tspan style="animation: type .01s linear 11.48s both">g</tspan><tspan style="animation: type .01s linear 11.52s both">e</tspan><tspan style="animation: type .01s linear 11.56s both">s</tspan></text>
-  <text x="40" y="687" font-size="16" fill="#e6e6e6"><tspan style="animation: type .01s linear 11.60s both">P</tspan><tspan style="animation: type .01s linear 11.64s both">y</tspan><tspan style="animation: type .01s linear 11.68s both">t</tspan><tspan style="animation: type .01s linear 11.72s both">h</tspan><tspan style="animation: type .01s linear 11.76s both">o</tspan><tspan style="animation: type .01s linear 11.80s both">n</tspan></text>
+  <text x="40" y="652" font-size="20" fill="#e6e6e6" font-weight="bold"><tspan style="animation: type .01s linear 12.14s both">L</tspan><tspan style="animation: type .01s linear 12.18s both">a</tspan><tspan style="animation: type .01s linear 12.22s both">n</tspan><tspan style="animation: type .01s linear 12.26s both">g</tspan><tspan style="animation: type .01s linear 12.30s both">u</tspan><tspan style="animation: type .01s linear 12.34s both">a</tspan><tspan style="animation: type .01s linear 12.38s both">g</tspan><tspan style="animation: type .01s linear 12.42s both">e</tspan><tspan style="animation: type .01s linear 12.46s both">s</tspan></text>
+  <text x="40" y="687" font-size="16" fill="#e6e6e6"><tspan style="animation: type .01s linear 12.50s both">P</tspan><tspan style="animation: type .01s linear 12.54s both">y</tspan><tspan style="animation: type .01s linear 12.58s both">t</tspan><tspan style="animation: type .01s linear 12.62s both">h</tspan><tspan style="animation: type .01s linear 12.66s both">o</tspan><tspan style="animation: type .01s linear 12.70s both">n</tspan></text>
   <rect x="200" y="674" width="480" height="16" fill="#1a1a1a"/>
-  <rect x="200" y="674" width="278" height="16" fill="#ffffff" style="animation: fade .3s linear 11.84s both"/>
-  <text x="780" y="687" font-size="16" fill="#e6e6e6" text-anchor="end"><tspan style="animation: type .01s linear 11.84s both">5</tspan><tspan style="animation: type .01s linear 11.88s both">8</tspan><tspan style="animation: type .01s linear 11.92s both">%</tspan></text>
-  <text x="40" y="725" font-size="16" fill="#e6e6e6"><tspan style="animation: type .01s linear 11.96s both">J</tspan><tspan style="animation: type .01s linear 12.00s both">a</tspan><tspan style="animation: type .01s linear 12.04s both">v</tspan><tspan style="animation: type .01s linear 12.08s both">a</tspan></text>
+  <rect x="200" y="674" width="278" height="16" fill="#ffffff" style="animation: fade .3s linear 12.74s both"/>
+  <text x="780" y="687" font-size="16" fill="#e6e6e6" text-anchor="end"><tspan style="animation: type .01s linear 12.74s both">5</tspan><tspan style="animation: type .01s linear 12.78s both">8</tspan><tspan style="animation: type .01s linear 12.82s both">%</tspan></text>
+  <text x="40" y="725" font-size="16" fill="#e6e6e6"><tspan style="animation: type .01s linear 12.86s both">J</tspan><tspan style="animation: type .01s linear 12.90s both">a</tspan><tspan style="animation: type .01s linear 12.94s both">v</tspan><tspan style="animation: type .01s linear 12.98s both">a</tspan></text>
   <rect x="200" y="712" width="480" height="16" fill="#1a1a1a"/>
-  <rect x="200" y="712" width="158" height="16" fill="#ffffff" style="animation: fade .3s linear 12.12s both"/>
-  <text x="780" y="725" font-size="16" fill="#e6e6e6" text-anchor="end"><tspan style="animation: type .01s linear 12.12s both">3</tspan><tspan style="animation: type .01s linear 12.16s both">3</tspan><tspan style="animation: type .01s linear 12.20s both">%</tspan></text>
-  <text x="40" y="763" font-size="16" fill="#e6e6e6"><tspan style="animation: type .01s linear 12.24s both">S</tspan><tspan style="animation: type .01s linear 12.28s both">h</tspan><tspan style="animation: type .01s linear 12.32s both">e</tspan><tspan style="animation: type .01s linear 12.36s both">l</tspan><tspan style="animation: type .01s linear 12.40s both">l</tspan></text>
+  <rect x="200" y="712" width="158" height="16" fill="#ffffff" style="animation: fade .3s linear 13.02s both"/>
+  <text x="780" y="725" font-size="16" fill="#e6e6e6" text-anchor="end"><tspan style="animation: type .01s linear 13.02s both">3</tspan><tspan style="animation: type .01s linear 13.06s both">3</tspan><tspan style="animation: type .01s linear 13.10s both">%</tspan></text>
+  <text x="40" y="763" font-size="16" fill="#e6e6e6"><tspan style="animation: type .01s linear 13.14s both">S</tspan><tspan style="animation: type .01s linear 13.18s both">h</tspan><tspan style="animation: type .01s linear 13.22s both">e</tspan><tspan style="animation: type .01s linear 13.26s both">l</tspan><tspan style="animation: type .01s linear 13.30s both">l</tspan></text>
   <rect x="200" y="750" width="480" height="16" fill="#1a1a1a"/>
-  <rect x="200" y="750" width="24" height="16" fill="#ffffff" style="animation: fade .3s linear 12.44s both"/>
-  <text x="780" y="763" font-size="16" fill="#e6e6e6" text-anchor="end"><tspan style="animation: type .01s linear 12.44s both">5</tspan><tspan style="animation: type .01s linear 12.48s both">%</tspan></text>
-  <text x="40" y="801" font-size="16" fill="#e6e6e6"><tspan style="animation: type .01s linear 12.52s both">B</tspan><tspan style="animation: type .01s linear 12.56s both">a</tspan><tspan style="animation: type .01s linear 12.60s both">t</tspan><tspan style="animation: type .01s linear 12.64s both">c</tspan><tspan style="animation: type .01s linear 12.68s both">h</tspan><tspan style="animation: type .01s linear 12.72s both">f</tspan><tspan style="animation: type .01s linear 12.76s both">i</tspan><tspan style="animation: type .01s linear 12.80s both">l</tspan><tspan style="animation: type .01s linear 12.84s both">e</tspan></text>
+  <rect x="200" y="750" width="24" height="16" fill="#ffffff" style="animation: fade .3s linear 13.34s both"/>
+  <text x="780" y="763" font-size="16" fill="#e6e6e6" text-anchor="end"><tspan style="animation: type .01s linear 13.34s both">5</tspan><tspan style="animation: type .01s linear 13.38s both">%</tspan></text>
+  <text x="40" y="801" font-size="16" fill="#e6e6e6"><tspan style="animation: type .01s linear 13.42s both">B</tspan><tspan style="animation: type .01s linear 13.46s both">a</tspan><tspan style="animation: type .01s linear 13.50s both">t</tspan><tspan style="animation: type .01s linear 13.54s both">c</tspan><tspan style="animation: type .01s linear 13.58s both">h</tspan><tspan style="animation: type .01s linear 13.62s both">f</tspan><tspan style="animation: type .01s linear 13.66s both">i</tspan><tspan style="animation: type .01s linear 13.70s both">l</tspan><tspan style="animation: type .01s linear 13.74s both">e</tspan></text>
   <rect x="200" y="788" width="480" height="16" fill="#1a1a1a"/>
-  <rect x="200" y="788" width="9" height="16" fill="#ffffff" style="animation: fade .3s linear 12.88s both"/>
-  <text x="780" y="801" font-size="16" fill="#e6e6e6" text-anchor="end"><tspan style="animation: type .01s linear 12.88s both">2</tspan><tspan style="animation: type .01s linear 12.92s both">%</tspan></text>
+  <rect x="200" y="788" width="9" height="16" fill="#ffffff" style="animation: fade .3s linear 13.78s both"/>
+  <text x="780" y="801" font-size="16" fill="#e6e6e6" text-anchor="end"><tspan style="animation: type .01s linear 13.78s both">2</tspan><tspan style="animation: type .01s linear 13.82s both">%</tspan></text>
   <line x1="40" y1="831" x2="780" y2="831" stroke="#333333" stroke-width="2"/>
   <g class="curg">
     <text x="0" y="0" font-size="18" fill="#e6e6e6" class="cur">&#9608;</text>
