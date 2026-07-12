@@ -3,7 +3,7 @@
   Edit the [ ] placeholders (project repos, social handles) to make it yours.
 -->
 
-![terminal](terminal.svg?v=3)
+![terminal](terminal.svg?v=4)
 
 ### now
 - [ your current focus / what you're learning — fill this in ]
