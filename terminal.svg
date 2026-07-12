@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="820" height="518" viewBox="0 0 820 518" font-family="'Courier New', Consolas, monospace">
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="374" viewBox="0 0 820 374" font-family="'Courier New', Consolas, monospace">
   <style>
     .cur { animation: blink 1.1s steps(1) infinite; }
     @keyframes blink { 50% { opacity: 0; } }
   </style>
-  <rect width="820" height="518" fill="#000000"/>
+  <rect width="820" height="374" fill="#000000"/>
   <rect x="0" y="0" width="820" height="40" fill="#0a0a0a" stroke="#1a1a1a"/>
   <circle cx="24" cy="20" r="7" fill="#ffffff"/>
   <circle cx="48" cy="20" r="7" fill="#ffffff"/>
@@ -11,17 +11,11 @@
   <text x="410" y="25" fill="#ffffff" font-size="13" text-anchor="middle">keshav@github: ~</text>
 
   <text x="40" y="70" fill="#ffffff" font-size="20">KESHAV PAL</text>
-  <text x="40" y="118" fill="#ffffff" font-size="16">$ whoami</text>
-  <text x="60" y="142" fill="#ffffff" font-size="16">Keshav Pal  -  Computer Engineering Student | Vibe Coder</text>
-  <text x="40" y="190" fill="#ffffff" font-size="16">$ cat about.txt</text>
-  <text x="60" y="214" fill="#ffffff" font-size="16">Computer engineering student &amp; vibe coder - building in Python and C,</text>
-  <text x="60" y="238" fill="#ffffff" font-size="16">living in the Linux terminal, and breaking things to learn security.</text>
-  <text x="40" y="286" fill="#ffffff" font-size="16">$ ls ./stack</text>
-  <text x="60" y="310" fill="#ffffff" font-size="16">languages : Python, C, Java</text>
-  <text x="60" y="334" fill="#ffffff" font-size="16">frameworks: React</text>
-  <text x="60" y="358" fill="#ffffff" font-size="16">tooling   : Linux, Git</text>
-  <text x="40" y="406" fill="#ffffff" font-size="16">$ ./connect --help</text>
-  <text x="60" y="430" fill="#ffffff" font-size="16">github : https://github.com/Kcyb3r</text>
+  <text x="40" y="118" fill="#ffffff" font-size="16">Keshav Pal  -  Computer Engineering Student | Vibe Coder</text>
+  <text x="40" y="166" fill="#ffffff" font-size="16">Computer engineering student &amp; vibe coder - building in Python and C,</text>
+  <text x="40" y="190" fill="#ffffff" font-size="16">living in the Linux terminal, and breaking things to learn security.</text>
+  <text x="40" y="238" fill="#ffffff" font-size="16">Python - C - Java  |  React  |  Linux - Git</text>
+  <text x="40" y="286" fill="#ffffff" font-size="16">github: https://github.com/Kcyb3r</text>
 
-  <text x="40" y="458" fill="#ffffff" font-size="16" class="cur">$ &#9608;</text>
+  <text x="40" y="314" fill="#ffffff" font-size="16" class="cur">&#9608;</text>
 </svg>
