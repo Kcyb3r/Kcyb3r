@@ -4,7 +4,7 @@
   Edit the [ ] placeholders (project repos) inside terminal.svg.
 -->
 
-![terminal](terminal.svg?v=15)
+![terminal](terminal.svg?v=16)
 
 ### stats
 
@@ -21,6 +21,7 @@ Computer Engineering Student | Vibe Coder
 stack: Python · C · Java · React · Linux · Git
 bio: Computer engineering student & vibe coder — building in Python and C, living in the Linux terminal, and breaking things to learn security.
 stats: 14 repos · 1 follower · 6 following · 2 stars · 0 forks · joined 2024
+languages: Python 58% · Java 33% · Shell 5% · Batchfile 2%
 connect: github.com/Kcyb3r
 </details>
 
