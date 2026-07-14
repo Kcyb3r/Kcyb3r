@@ -299,8 +299,8 @@
     46.47% { transform: translate(126.4px, 831.0px); }
     46.60% { transform: translate(789.6px, 831.0px); }
     46.74% { transform: translate(799.2px, 831.0px); }
-    40.20% { transform: translate(40.0px, 910.0px); }
-    100% { transform: translate(40.0px, 910.0px); }
+     47.50% { transform: translate(40.0px, 910.0px); }
+     100% { transform: translate(40.0px, 910.0px); }
   }
       @keyframes type0 { 0% { opacity: 0; } 6.67% { opacity: 0; } 6.77% { opacity: 1; } 100% { opacity: 1; } }
     @keyframes type1 { 0% { opacity: 0; } 6.80% { opacity: 0; } 6.90% { opacity: 1; } 100% { opacity: 1; } }
