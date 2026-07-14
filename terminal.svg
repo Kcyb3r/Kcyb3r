@@ -563,11 +563,6 @@
     @keyframes fade0 { 0% { opacity: 0; } 15.00% { opacity: 0; } 15.10% { opacity: 1; } 100% { opacity: 1; } }
     @keyframes fade1 { 0% { opacity: 0; } 15.80% { opacity: 0; } 15.90% { opacity: 1; } 100% { opacity: 1; } }
     @keyframes fade2 { 0% { opacity: 0; } 15.93% { opacity: 0; } 16.03% { opacity: 1; } 100% { opacity: 1; } }
-    @keyframes procsweep {
-      0% { transform: translateX(0px); }
-      50% { transform: translateX(18px); }
-      100% { transform: translateX(0px); }
-    }
   </style>
   <rect width="820" height="936" fill="#000000"/>
   <rect x="0" y="0" width="820" height="44" fill="#0a0a0a" stroke="#1a1a1a"/>
@@ -627,13 +622,6 @@
   <rect x="200" y="818" width="9" height="16" fill="#ffffff" style="transform: scaleX(0); transform-box: fill-box; transform-origin: 0 0; animation: bargrow8 30s linear infinite"/>
   <text x="780" y="831" font-size="16" fill="#e6e6e6" text-anchor="end"><tspan style="animation: type247 30s linear infinite">2</tspan><tspan style="animation: type248 30s linear infinite">%</tspan></text>
   <line x1="40" y1="861" x2="780" y2="861" stroke="#333333" stroke-width="2"/>
-  <g style="animation: movecursor 30s steps(1, jump-end) infinite">
-    <g style="animation: procsweep 2.6s linear infinite">
-      <rect x="9" y="-15" width="28" height="19" fill="#ffffff" opacity="0.8"/>
-      <rect x="16" y="-15" width="3" height="19" fill="#1a1a1a"/>
-      <rect x="25" y="-15" width="3" height="19" fill="#1a1a1a"/>
-    </g>
-  </g>
   <g class="curg" transform="translate(40,910)">
     <text x="0" y="0" font-size="18" fill="#e6e6e6" class="cur">&#9608;</text>
   </g>
