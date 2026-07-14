@@ -551,108 +551,23 @@
     @keyframes type246 { 0% { opacity: 0; } 46.47% { opacity: 0; } 46.57% { opacity: 1; } 100% { opacity: 1; } }
     @keyframes type247 { 0% { opacity: 0; } 46.60% { opacity: 0; } 46.70% { opacity: 1; } 100% { opacity: 1; } }
     @keyframes type248 { 0% { opacity: 0; } 46.73% { opacity: 0; } 46.83% { opacity: 1; } 100% { opacity: 1; } }
-    @keyframes bargrow0 { 0% { transform: scaleX(0); } 39.60% { transform: scaleX(0); } 39.70% { transform: scaleX(1); } 100% { transform: scaleX(1); } }
-  @keyframes scan0 {
-  0% { opacity: 0; transform: translateX(0px); }
-  36.50% { opacity: 0; transform: translateX(0px); }
-  36.60% { opacity: 1; transform: translateX(0px); }
-  37.35% { opacity: 1; transform: translateX(436px); }
-  38.10% { opacity: 1; transform: translateX(0px); }
-  38.85% { opacity: 1; transform: translateX(436px); }
-  39.60% { opacity: 0; transform: translateX(436px); }
-  100% { opacity: 0; transform: translateX(436px); }
-}
-    @keyframes bargrow1 { 0% { transform: scaleX(0); } 41.07% { transform: scaleX(0); } 41.17% { transform: scaleX(1); } 100% { transform: scaleX(1); } }
-  @keyframes scan1 {
-  0% { opacity: 0; transform: translateX(0px); }
-  37.97% { opacity: 0; transform: translateX(0px); }
-  38.07% { opacity: 1; transform: translateX(0px); }
-  38.82% { opacity: 1; transform: translateX(436px); }
-  39.57% { opacity: 1; transform: translateX(0px); }
-  40.32% { opacity: 1; transform: translateX(436px); }
-  41.07% { opacity: 0; transform: translateX(436px); }
-  100% { opacity: 0; transform: translateX(436px); }
-}
-    @keyframes bargrow2 { 0% { transform: scaleX(0); } 41.87% { transform: scaleX(0); } 41.97% { transform: scaleX(1); } 100% { transform: scaleX(1); } }
-  @keyframes scan2 {
-  0% { opacity: 0; transform: translateX(0px); }
-  38.77% { opacity: 0; transform: translateX(0px); }
-  38.87% { opacity: 1; transform: translateX(0px); }
-  39.62% { opacity: 1; transform: translateX(436px); }
-  40.37% { opacity: 1; transform: translateX(0px); }
-  41.12% { opacity: 1; transform: translateX(436px); }
-  41.87% { opacity: 0; transform: translateX(436px); }
-  100% { opacity: 0; transform: translateX(436px); }
-}
-    @keyframes bargrow3 { 0% { transform: scaleX(0); } 43.20% { transform: scaleX(0); } 43.30% { transform: scaleX(1); } 100% { transform: scaleX(1); } }
-  @keyframes scan3 {
-  0% { opacity: 0; transform: translateX(0px); }
-  40.10% { opacity: 0; transform: translateX(0px); }
-  40.20% { opacity: 1; transform: translateX(0px); }
-  40.95% { opacity: 1; transform: translateX(436px); }
-  41.70% { opacity: 1; transform: translateX(0px); }
-  42.45% { opacity: 1; transform: translateX(436px); }
-  43.20% { opacity: 0; transform: translateX(436px); }
-  100% { opacity: 0; transform: translateX(436px); }
-}
-    @keyframes bargrow4 { 0% { transform: scaleX(0); } 44.00% { transform: scaleX(0); } 44.10% { transform: scaleX(1); } 100% { transform: scaleX(1); } }
-  @keyframes scan4 {
-  0% { opacity: 0; transform: translateX(0px); }
-  40.90% { opacity: 0; transform: translateX(0px); }
-  41.00% { opacity: 1; transform: translateX(0px); }
-  41.75% { opacity: 1; transform: translateX(436px); }
-  42.50% { opacity: 1; transform: translateX(0px); }
-  43.25% { opacity: 1; transform: translateX(436px); }
-  44.00% { opacity: 0; transform: translateX(436px); }
-  100% { opacity: 0; transform: translateX(436px); }
-}
-    @keyframes bargrow5 { 0% { transform: scaleX(0); } 46.13% { transform: scaleX(0); } 46.23% { transform: scaleX(1); } 100% { transform: scaleX(1); } }
-  @keyframes scan5 {
-  0% { opacity: 0; transform: translateX(0px); }
-  43.03% { opacity: 0; transform: translateX(0px); }
-  43.13% { opacity: 1; transform: translateX(0px); }
-  43.88% { opacity: 1; transform: translateX(436px); }
-  44.63% { opacity: 1; transform: translateX(0px); }
-  45.38% { opacity: 1; transform: translateX(436px); }
-  46.13% { opacity: 0; transform: translateX(436px); }
-  100% { opacity: 0; transform: translateX(436px); }
-}
-    @keyframes bargrow6 { 0% { transform: scaleX(0); } 47.07% { transform: scaleX(0); } 47.17% { transform: scaleX(1); } 100% { transform: scaleX(1); } }
-  @keyframes scan6 {
-  0% { opacity: 0; transform: translateX(0px); }
-  43.97% { opacity: 0; transform: translateX(0px); }
-  44.07% { opacity: 1; transform: translateX(0px); }
-  44.82% { opacity: 1; transform: translateX(436px); }
-  45.57% { opacity: 1; transform: translateX(0px); }
-  46.32% { opacity: 1; transform: translateX(436px); }
-  47.07% { opacity: 0; transform: translateX(436px); }
-  100% { opacity: 0; transform: translateX(436px); }
-}
-    @keyframes bargrow7 { 0% { transform: scaleX(0); } 48.13% { transform: scaleX(0); } 48.23% { transform: scaleX(1); } 100% { transform: scaleX(1); } }
-  @keyframes scan7 {
-  0% { opacity: 0; transform: translateX(0px); }
-  45.03% { opacity: 0; transform: translateX(0px); }
-  45.13% { opacity: 1; transform: translateX(0px); }
-  45.88% { opacity: 1; transform: translateX(436px); }
-  46.63% { opacity: 1; transform: translateX(0px); }
-  47.38% { opacity: 1; transform: translateX(436px); }
-  48.13% { opacity: 0; transform: translateX(436px); }
-  100% { opacity: 0; transform: translateX(436px); }
-}
-    @keyframes bargrow8 { 0% { transform: scaleX(0); } 49.60% { transform: scaleX(0); } 49.70% { transform: scaleX(1); } 100% { transform: scaleX(1); } }
-  @keyframes scan8 {
-  0% { opacity: 0; transform: translateX(0px); }
-  46.50% { opacity: 0; transform: translateX(0px); }
-  46.60% { opacity: 1; transform: translateX(0px); }
-  47.35% { opacity: 1; transform: translateX(436px); }
-  48.10% { opacity: 1; transform: translateX(0px); }
-  48.85% { opacity: 1; transform: translateX(436px); }
-  49.60% { opacity: 0; transform: translateX(436px); }
-  100% { opacity: 0; transform: translateX(436px); }
-}
+    @keyframes bargrow0 { 0% { transform: scaleX(0); } 36.60% { transform: scaleX(0); } 36.70% { transform: scaleX(1); } 100% { transform: scaleX(1); } }
+    @keyframes bargrow1 { 0% { transform: scaleX(0); } 38.07% { transform: scaleX(0); } 38.17% { transform: scaleX(1); } 100% { transform: scaleX(1); } }
+    @keyframes bargrow2 { 0% { transform: scaleX(0); } 38.87% { transform: scaleX(0); } 38.97% { transform: scaleX(1); } 100% { transform: scaleX(1); } }
+    @keyframes bargrow3 { 0% { transform: scaleX(0); } 40.20% { transform: scaleX(0); } 40.30% { transform: scaleX(1); } 100% { transform: scaleX(1); } }
+    @keyframes bargrow4 { 0% { transform: scaleX(0); } 41.00% { transform: scaleX(0); } 41.10% { transform: scaleX(1); } 100% { transform: scaleX(1); } }
+    @keyframes bargrow5 { 0% { transform: scaleX(0); } 43.13% { transform: scaleX(0); } 43.23% { transform: scaleX(1); } 100% { transform: scaleX(1); } }
+    @keyframes bargrow6 { 0% { transform: scaleX(0); } 44.07% { transform: scaleX(0); } 44.17% { transform: scaleX(1); } 100% { transform: scaleX(1); } }
+    @keyframes bargrow7 { 0% { transform: scaleX(0); } 45.13% { transform: scaleX(0); } 45.23% { transform: scaleX(1); } 100% { transform: scaleX(1); } }
+    @keyframes bargrow8 { 0% { transform: scaleX(0); } 46.60% { transform: scaleX(0); } 46.70% { transform: scaleX(1); } 100% { transform: scaleX(1); } }
     @keyframes fade0 { 0% { opacity: 0; } 15.00% { opacity: 0; } 15.10% { opacity: 1; } 100% { opacity: 1; } }
     @keyframes fade1 { 0% { opacity: 0; } 15.80% { opacity: 0; } 15.90% { opacity: 1; } 100% { opacity: 1; } }
     @keyframes fade2 { 0% { opacity: 0; } 15.93% { opacity: 0; } 16.03% { opacity: 1; } 100% { opacity: 1; } }
+    @keyframes procsweep {
+      0% { transform: translateX(0px); }
+      50% { transform: translateX(18px); }
+      100% { transform: translateX(0px); }
+    }
   </style>
   <rect width="820" height="936" fill="#000000"/>
   <rect x="0" y="0" width="820" height="44" fill="#0a0a0a" stroke="#1a1a1a"/>
@@ -676,87 +591,49 @@
   <text x="40" y="450" font-size="16" fill="#e6e6e6"><tspan style="animation: type167 30s linear infinite">r</tspan><tspan style="animation: type168 30s linear infinite">e</tspan><tspan style="animation: type169 30s linear infinite">p</tspan><tspan style="animation: type170 30s linear infinite">o</tspan><tspan style="animation: type171 30s linear infinite">s</tspan></text>
   <rect x="200" y="437" width="480" height="16" fill="#1a1a1a"/>
   <rect x="200" y="437" width="480" height="16" fill="#ffffff" style="transform: scaleX(0); transform-box: fill-box; transform-origin: 0 0; animation: bargrow0 30s linear infinite"/>
-  <g style="animation: scan0 30s linear infinite">
-    <rect x="200" y="437" width="44" height="16" fill="#ffffff"/>
-    <rect x="212" y="437" width="3" height="16" fill="#1a1a1a"/>
-    <rect x="228" y="437" width="3" height="16" fill="#1a1a1a"/>
-  </g>
   <text x="780" y="450" font-size="16" fill="#e6e6e6" text-anchor="end"><tspan style="animation: type172 30s linear infinite">1</tspan><tspan style="animation: type173 30s linear infinite">4</tspan></text>
   <text x="40" y="488" font-size="16" fill="#e6e6e6"><tspan style="animation: type174 30s linear infinite">f</tspan><tspan style="animation: type175 30s linear infinite">o</tspan><tspan style="animation: type176 30s linear infinite">l</tspan><tspan style="animation: type177 30s linear infinite">l</tspan><tspan style="animation: type178 30s linear infinite">o</tspan><tspan style="animation: type179 30s linear infinite">w</tspan><tspan style="animation: type180 30s linear infinite">i</tspan><tspan style="animation: type181 30s linear infinite">n</tspan><tspan style="animation: type182 30s linear infinite">g</tspan></text>
   <rect x="200" y="475" width="480" height="16" fill="#1a1a1a"/>
   <rect x="200" y="475" width="205" height="16" fill="#ffffff" style="transform: scaleX(0); transform-box: fill-box; transform-origin: 0 0; animation: bargrow1 30s linear infinite"/>
-  <g style="animation: scan1 30s linear infinite">
-    <rect x="200" y="475" width="44" height="16" fill="#ffffff"/>
-    <rect x="212" y="475" width="3" height="16" fill="#1a1a1a"/>
-    <rect x="228" y="475" width="3" height="16" fill="#1a1a1a"/>
-  </g>
   <text x="780" y="488" font-size="16" fill="#e6e6e6" text-anchor="end"><tspan style="animation: type183 30s linear infinite">6</tspan></text>
   <text x="40" y="526" font-size="16" fill="#e6e6e6"><tspan style="animation: type184 30s linear infinite">s</tspan><tspan style="animation: type185 30s linear infinite">t</tspan><tspan style="animation: type186 30s linear infinite">a</tspan><tspan style="animation: type187 30s linear infinite">r</tspan><tspan style="animation: type188 30s linear infinite">s</tspan></text>
   <rect x="200" y="513" width="480" height="16" fill="#1a1a1a"/>
   <rect x="200" y="513" width="68" height="16" fill="#ffffff" style="transform: scaleX(0); transform-box: fill-box; transform-origin: 0 0; animation: bargrow2 30s linear infinite"/>
-  <g style="animation: scan2 30s linear infinite">
-    <rect x="200" y="513" width="44" height="16" fill="#ffffff"/>
-    <rect x="212" y="513" width="3" height="16" fill="#1a1a1a"/>
-    <rect x="228" y="513" width="3" height="16" fill="#1a1a1a"/>
-  </g>
   <text x="780" y="526" font-size="16" fill="#e6e6e6" text-anchor="end"><tspan style="animation: type189 30s linear infinite">2</tspan></text>
   <text x="40" y="564" font-size="16" fill="#e6e6e6"><tspan style="animation: type190 30s linear infinite">f</tspan><tspan style="animation: type191 30s linear infinite">o</tspan><tspan style="animation: type192 30s linear infinite">l</tspan><tspan style="animation: type193 30s linear infinite">l</tspan><tspan style="animation: type194 30s linear infinite">o</tspan><tspan style="animation: type195 30s linear infinite">w</tspan><tspan style="animation: type196 30s linear infinite">e</tspan><tspan style="animation: type197 30s linear infinite">r</tspan><tspan style="animation: type198 30s linear infinite">s</tspan></text>
   <rect x="200" y="551" width="480" height="16" fill="#1a1a1a"/>
   <rect x="200" y="551" width="34" height="16" fill="#ffffff" style="transform: scaleX(0); transform-box: fill-box; transform-origin: 0 0; animation: bargrow3 30s linear infinite"/>
-  <g style="animation: scan3 30s linear infinite">
-    <rect x="200" y="551" width="44" height="16" fill="#ffffff"/>
-    <rect x="212" y="551" width="3" height="16" fill="#1a1a1a"/>
-    <rect x="228" y="551" width="3" height="16" fill="#1a1a1a"/>
-  </g>
   <text x="780" y="564" font-size="16" fill="#e6e6e6" text-anchor="end"><tspan style="animation: type199 30s linear infinite">1</tspan></text>
   <text x="40" y="602" font-size="16" fill="#e6e6e6"><tspan style="animation: type200 30s linear infinite">f</tspan><tspan style="animation: type201 30s linear infinite">o</tspan><tspan style="animation: type202 30s linear infinite">r</tspan><tspan style="animation: type203 30s linear infinite">k</tspan><tspan style="animation: type204 30s linear infinite">s</tspan></text>
   <rect x="200" y="589" width="480" height="16" fill="#1a1a1a"/>
   <rect x="200" y="589" width="0" height="16" fill="#ffffff" style="transform: scaleX(0); transform-box: fill-box; transform-origin: 0 0; animation: bargrow4 30s linear infinite"/>
-  <g style="animation: scan4 30s linear infinite">
-    <rect x="200" y="589" width="44" height="16" fill="#ffffff"/>
-    <rect x="212" y="589" width="3" height="16" fill="#1a1a1a"/>
-    <rect x="228" y="589" width="3" height="16" fill="#1a1a1a"/>
-  </g>
   <text x="780" y="602" font-size="16" fill="#e6e6e6" text-anchor="end"><tspan style="animation: type205 30s linear infinite">0</tspan></text>
   <line x1="40" y1="632" x2="780" y2="632" stroke="#333333" stroke-width="2"/>
   <text x="40" y="682" font-size="20" fill="#e6e6e6" font-weight="bold"><tspan style="animation: type206 30s linear infinite">L</tspan><tspan style="animation: type207 30s linear infinite">a</tspan><tspan style="animation: type208 30s linear infinite">n</tspan><tspan style="animation: type209 30s linear infinite">g</tspan><tspan style="animation: type210 30s linear infinite">u</tspan><tspan style="animation: type211 30s linear infinite">a</tspan><tspan style="animation: type212 30s linear infinite">g</tspan><tspan style="animation: type213 30s linear infinite">e</tspan><tspan style="animation: type214 30s linear infinite">s</tspan></text>
   <text x="40" y="717" font-size="16" fill="#e6e6e6"><tspan style="animation: type215 30s linear infinite">P</tspan><tspan style="animation: type216 30s linear infinite">y</tspan><tspan style="animation: type217 30s linear infinite">t</tspan><tspan style="animation: type218 30s linear infinite">h</tspan><tspan style="animation: type219 30s linear infinite">o</tspan><tspan style="animation: type220 30s linear infinite">n</tspan></text>
   <rect x="200" y="704" width="480" height="16" fill="#1a1a1a"/>
   <rect x="200" y="704" width="278" height="16" fill="#ffffff" style="transform: scaleX(0); transform-box: fill-box; transform-origin: 0 0; animation: bargrow5 30s linear infinite"/>
-  <g style="animation: scan5 30s linear infinite">
-    <rect x="200" y="704" width="44" height="16" fill="#ffffff"/>
-    <rect x="212" y="704" width="3" height="16" fill="#1a1a1a"/>
-    <rect x="228" y="704" width="3" height="16" fill="#1a1a1a"/>
-  </g>
   <text x="780" y="717" font-size="16" fill="#e6e6e6" text-anchor="end"><tspan style="animation: type221 30s linear infinite">5</tspan><tspan style="animation: type222 30s linear infinite">8</tspan><tspan style="animation: type223 30s linear infinite">%</tspan></text>
   <text x="40" y="755" font-size="16" fill="#e6e6e6"><tspan style="animation: type224 30s linear infinite">J</tspan><tspan style="animation: type225 30s linear infinite">a</tspan><tspan style="animation: type226 30s linear infinite">v</tspan><tspan style="animation: type227 30s linear infinite">a</tspan></text>
   <rect x="200" y="742" width="480" height="16" fill="#1a1a1a"/>
   <rect x="200" y="742" width="158" height="16" fill="#ffffff" style="transform: scaleX(0); transform-box: fill-box; transform-origin: 0 0; animation: bargrow6 30s linear infinite"/>
-  <g style="animation: scan6 30s linear infinite">
-    <rect x="200" y="742" width="44" height="16" fill="#ffffff"/>
-    <rect x="212" y="742" width="3" height="16" fill="#1a1a1a"/>
-    <rect x="228" y="742" width="3" height="16" fill="#1a1a1a"/>
-  </g>
   <text x="780" y="755" font-size="16" fill="#e6e6e6" text-anchor="end"><tspan style="animation: type228 30s linear infinite">3</tspan><tspan style="animation: type229 30s linear infinite">3</tspan><tspan style="animation: type230 30s linear infinite">%</tspan></text>
   <text x="40" y="793" font-size="16" fill="#e6e6e6"><tspan style="animation: type231 30s linear infinite">S</tspan><tspan style="animation: type232 30s linear infinite">h</tspan><tspan style="animation: type233 30s linear infinite">e</tspan><tspan style="animation: type234 30s linear infinite">l</tspan><tspan style="animation: type235 30s linear infinite">l</tspan></text>
   <rect x="200" y="780" width="480" height="16" fill="#1a1a1a"/>
   <rect x="200" y="780" width="24" height="16" fill="#ffffff" style="transform: scaleX(0); transform-box: fill-box; transform-origin: 0 0; animation: bargrow7 30s linear infinite"/>
-  <g style="animation: scan7 30s linear infinite">
-    <rect x="200" y="780" width="44" height="16" fill="#ffffff"/>
-    <rect x="212" y="780" width="3" height="16" fill="#1a1a1a"/>
-    <rect x="228" y="780" width="3" height="16" fill="#1a1a1a"/>
-  </g>
   <text x="780" y="793" font-size="16" fill="#e6e6e6" text-anchor="end"><tspan style="animation: type236 30s linear infinite">5</tspan><tspan style="animation: type237 30s linear infinite">%</tspan></text>
   <text x="40" y="831" font-size="16" fill="#e6e6e6"><tspan style="animation: type238 30s linear infinite">B</tspan><tspan style="animation: type239 30s linear infinite">a</tspan><tspan style="animation: type240 30s linear infinite">t</tspan><tspan style="animation: type241 30s linear infinite">c</tspan><tspan style="animation: type242 30s linear infinite">h</tspan><tspan style="animation: type243 30s linear infinite">f</tspan><tspan style="animation: type244 30s linear infinite">i</tspan><tspan style="animation: type245 30s linear infinite">l</tspan><tspan style="animation: type246 30s linear infinite">e</tspan></text>
   <rect x="200" y="818" width="480" height="16" fill="#1a1a1a"/>
   <rect x="200" y="818" width="9" height="16" fill="#ffffff" style="transform: scaleX(0); transform-box: fill-box; transform-origin: 0 0; animation: bargrow8 30s linear infinite"/>
-  <g style="animation: scan8 30s linear infinite">
-    <rect x="200" y="818" width="44" height="16" fill="#ffffff"/>
-    <rect x="212" y="818" width="3" height="16" fill="#1a1a1a"/>
-    <rect x="228" y="818" width="3" height="16" fill="#1a1a1a"/>
-  </g>
   <text x="780" y="831" font-size="16" fill="#e6e6e6" text-anchor="end"><tspan style="animation: type247 30s linear infinite">2</tspan><tspan style="animation: type248 30s linear infinite">%</tspan></text>
   <line x1="40" y1="861" x2="780" y2="861" stroke="#333333" stroke-width="2"/>
+  <g style="animation: movecursor 30s steps(1, jump-end) infinite">
+    <g style="animation: procsweep 2.6s linear infinite">
+      <rect x="9" y="-15" width="28" height="19" fill="#ffffff" opacity="0.8"/>
+      <rect x="16" y="-15" width="3" height="19" fill="#1a1a1a"/>
+      <rect x="25" y="-15" width="3" height="19" fill="#1a1a1a"/>
+    </g>
+  </g>
   <g class="curg" transform="translate(40,910)">
     <text x="0" y="0" font-size="18" fill="#e6e6e6" class="cur">&#9608;</text>
   </g>
