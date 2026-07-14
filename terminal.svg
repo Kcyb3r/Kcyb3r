@@ -45,18 +45,18 @@
     }
     .curg { animation: movecursor 30s steps(1, jump-end) infinite; }
   @keyframes movecursor {
-    0.00% { transform: translate(40.0px, 100.0px); }
-    6.66% { transform: translate(56.8px, 100.0px); }
-    6.80% { transform: translate(73.6px, 100.0px); }
-    6.93% { transform: translate(90.4px, 100.0px); }
-    7.07% { transform: translate(107.2px, 100.0px); }
-    7.20% { transform: translate(124.0px, 100.0px); }
-    7.33% { transform: translate(140.8px, 100.0px); }
-    7.47% { transform: translate(157.6px, 100.0px); }
-    7.60% { transform: translate(174.4px, 100.0px); }
-    7.73% { transform: translate(191.2px, 100.0px); }
-    7.87% { transform: translate(208.0px, 100.0px); }
-    8.00% { transform: translate(241.6px, 100.0px); }
+    0.00% { transform: translate(40.0px, 96.0px); }
+    6.66% { transform: translate(56.8px, 96.0px); }
+    6.80% { transform: translate(73.6px, 96.0px); }
+    6.93% { transform: translate(90.4px, 96.0px); }
+    7.07% { transform: translate(107.2px, 96.0px); }
+    7.20% { transform: translate(124.0px, 96.0px); }
+    7.33% { transform: translate(140.8px, 96.0px); }
+    7.47% { transform: translate(157.6px, 96.0px); }
+    7.60% { transform: translate(174.4px, 96.0px); }
+    7.73% { transform: translate(191.2px, 96.0px); }
+    7.87% { transform: translate(208.0px, 96.0px); }
+    8.00% { transform: translate(241.6px, 96.0px); }
     8.17% { transform: translate(40.0px, 140.0px); }
     15.00% { transform: translate(70.8px, 140.0px); }
     15.13% { transform: translate(81.6px, 140.0px); }
