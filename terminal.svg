@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="2000" viewBox="0 0 820 936" preserveAspectRatio="xMidYMid meet" font-family="'Courier New', Consolas, monospace">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2000" viewBox="0 0 820 1180" preserveAspectRatio="xMidYMid meet" font-family="'Courier New', Consolas, monospace">
   <style>
     @keyframes type { 0% { opacity: 0; } 0.1% { opacity: 1; } 100% { opacity: 1; } }
     @keyframes fade { 0% { opacity: 0; } 0.3% { opacity: 1; } 100% { opacity: 1; } }
@@ -299,8 +299,8 @@
     46.47% { transform: translate(126.4px, 831.0px); }
     46.60% { transform: translate(789.6px, 831.0px); }
     46.74% { transform: translate(799.2px, 831.0px); }
-     47.50% { transform: translate(40.0px, 910.0px); }
-     100% { transform: translate(40.0px, 910.0px); }
+     47.50% { transform: translate(40.0px, 885.0px); }
+     100% { transform: translate(40.0px, 885.0px); }
   }
       @keyframes type0 { 0% { opacity: 0; } 6.67% { opacity: 0; } 6.77% { opacity: 1; } 100% { opacity: 1; } }
     @keyframes type1 { 0% { opacity: 0; } 6.80% { opacity: 0; } 6.90% { opacity: 1; } 100% { opacity: 1; } }
@@ -564,7 +564,7 @@
     @keyframes fade1 { 0% { opacity: 0; } 15.80% { opacity: 0; } 15.90% { opacity: 1; } 100% { opacity: 1; } }
     @keyframes fade2 { 0% { opacity: 0; } 15.93% { opacity: 0; } 16.03% { opacity: 1; } 100% { opacity: 1; } }
   </style>
-  <rect width="820" height="936" fill="#000000"/>
+  <rect width="820" height="1180" fill="#000000"/>
   <rect x="0" y="0" width="820" height="44" fill="#0a0a0a" stroke="#1a1a1a"/>
   <g><circle cx="728" cy="22" r="7" fill="#ffffff"/><line x1="724" y1="22" x2="732" y2="22" stroke="#000000" stroke-width="1.5"/></g>
   <g><circle cx="754" cy="22" r="7" fill="#ffffff"/><rect x="750" y="18" width="8" height="8" fill="none" stroke="#000000" stroke-width="1.5"/></g>
@@ -622,8 +622,9 @@
   <rect x="200" y="818" width="9" height="16" fill="#ffffff" style="transform: scaleX(0); transform-box: fill-box; transform-origin: 0 0; animation: bargrow8 30s linear infinite"/>
   <text x="780" y="831" font-size="16" fill="#e6e6e6" text-anchor="end"><tspan style="animation: type247 30s linear infinite">2</tspan><tspan style="animation: type248 30s linear infinite">%</tspan></text>
   <line x1="40" y1="861" x2="780" y2="861" stroke="#333333" stroke-width="2"/>
-  <g class="curg" transform="translate(40,910)">
+  <g class="curg" transform="translate(40,885)">
     <text x="0" y="0" font-size="18" fill="#e6e6e6" class="cur">&#9608;</text>
   </g>
-  
+  <image x="40" y="900" width="740" height="260" preserveAspectRatio="xMidYMid meet" xlink:href="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=Kcyb3r&amp;theme=%7B%22backgroundColor%22%3A%22%23000000%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D"/>
+
 </svg>
